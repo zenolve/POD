@@ -1,26 +1,33 @@
 import { useState, useEffect } from 'react';
 
-const useImage = (url: string) => {
+const useImage = (url: string): [HTMLImageElement | null, 'loading' | 'loaded' | 'error'] => {
   const [image, setImage] = useState<HTMLImageElement | null>(null);
-  const [error, setError] = useState<string | null>(null);
+  const [status, setStatus] = useState<'loading' | 'loaded' | 'error'>('loading');
 
   useEffect(() => {
-    if (!url) return;
+    if (!url) {
+      setImage(null);
+      setStatus('loading');
+      return;
+    }
 
+    setStatus('loading');
     const img = new Image();
-    img.crossOrigin = 'Anonymous'; // Handle CORS for images from other domains
-    img.src = url;
+    img.crossOrigin = 'Anonymous';
 
     const handleLoad = () => {
       setImage(img);
+      setStatus('loaded');
     };
 
     const handleError = () => {
-      setError(`Failed to load image from ${url}`);
+      setImage(null);
+      setStatus('error');
     };
 
     img.addEventListener('load', handleLoad);
     img.addEventListener('error', handleError);
+    img.src = url;
 
     return () => {
       img.removeEventListener('load', handleLoad);
@@ -28,7 +35,7 @@ const useImage = (url: string) => {
     };
   }, [url]);
 
-  return [image, error];
+  return [image, status];
 };
 
 export default useImage;
