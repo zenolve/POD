@@ -1,0 +1,39 @@
+TITLE: How I Used Reddit to Build a $34K/Month SaaS
+FOUNDER: Roman — co-founder of Goji Berry AI (Gojiberry), an intent-based outreach tool
+DATE: 2026-01-25
+URL: https://www.youtube.com/watch?v=pvjalHFNM9Q
+
+NUMBERS: ~$30K MRR (24K+ shown), from $0 four months earlier. Reddit drove 11 MILLION impressions and 40,000+ website visitors (would've cost hundreds of thousands in ads), landing the first ~100 customers. Most users on the $99 plan (unlimited high-intent leads + outreach).
+
+WHAT IT IS: Gojiberry finds HIGH-INTENT leads on LinkedIn by their signals (liking a specific post, interacting with competitors, just raised funding, just hired), then automates LinkedIn outreach with AI-personalized messages → acceptance/reply rates well above industry because the leads are warm and the messaging is tailored.
+
+BACKGROUND: Mechanical engineer → learned affiliate marketing pre-COVID → freelancing → 2023 launched first SaaS (Coco AI), scaled to $50K MRR with outreach, SOLD it to a US venture. What made that business great was the acquisition method (outreach), so they built Goji Berry around it.
+
+REDDIT'S IMPACT (beyond the visible): 11M impressions + 40K visitors, but the bigger effect is OMNIPRESENCE — almost everyone on demo calls / other platforms says "oh, you're the Reddit guy." The more leads see you, the more likely you close them.
+
+EXAMPLE POSTS: "I paid 5 influencers on LinkedIn to promote my SaaS. Here's what $1,250 got me" → 160K views, 543 upvotes, ~2,000 visitors, ~10-15 clients. "We got rejected from the Y Combinator interview" → 179,000 views, ~15 clients. Lesson: TELL A STORY + SHOW PROOF (include the influencer post / receipts). Even with no success yet, you can post about what you're doing / the problem you solve. You can turn ANY life event into a Reddit post.
+
+TOP 3 REASONS A POST GOES VIRAL:
+1. Use AI to write it — he's not a native English speaker, so he tells his story to ChatGPT by VOICE, then asks it to translate/correct (lets you go deeper into details than writing it all).
+2. The initial start — get as many upvotes as possible in the first 5-10 minutes (he has a friend group that upvotes/comments each other's posts).
+3. NEVER put your SaaS directly in the post — trigger curiosity by highlighting it; add proof so readers know it's real.
+
+REDDIT PLAYBOOK (start over, 2026):
+1. Fresh account — ONE account per browser (Chrome/Firefox/Safari). Do NOT create it with a brand-new email (new email + new Reddit = instant ban).
+2. Add a profile picture, link your SaaS in the bio, and activate the feature that HIDES your feed (so people who check your profile don't see you only ever talk about the same SaaS).
+3. First 7-14 days: NO marketing — just comment and upvote to warm up the account and build karma (more karma = stronger account).
+4. After 7-14 days: start posting.
+5. Then start marketing — but some subreddits don't allow promotion (e.g., r/ycombinator-style), not worth posting there.
+6. Change the ANGLE with every post (redirect to a YouTube video, a Twitter post — get creative).
+7. Get at least 10 upvotes in the first 10 minutes (he has a group of 15 marketers who upvote each other's posts) so external people then push it higher.
+8. Reply to EVERY comment — engagement drives more upvotes and higher ranking.
+
+HANDLING HATE/BANS: Show PROOF (no one can argue with "I make $25K MRR" if you show it), then BLOCK negative/insulting people. It's frightening at first (15 bad comments saying you'll never make it) — stick with it and believe in what you're doing. (Pat: he grew Starter Story on Reddit — people created a petition to ban him; it felt scary but didn't matter at all in hindsight.)
+
+CONTENT IDEAS: Main source is his daily life as a SaaS marketer — the more he does, the more stories he has (YC rejection → post). Even beginners can post about how their SaaS is going / the problem they solve.
+
+TECH STACK (marketing-heavy): Instantly AI (cold email, ~$800/mo, high volume), Outrank (SEO, $99/mo), Goji Berry AI itself (LinkedIn/high-intent outreach, $99/mo), Calendly (~$20), Framer (landing pages, ~$49/mo), ChatGPT + Nano Banana (posts/graphics, ~$40/mo), Sales Navigator (~$100/mo on some accounts).
+
+ADVICE: Advertise the way you'd love to be advertised to — he loves entrepreneur success stories (like Starter Story), so that's how he markets.
+
+PRODUCER REFLECTION: Reddit isn't a platform to SCALE to $10-20K MRR alone — it's for your first 10-100 customers and (crucially) REAL product feedback from honest people. "Don't BS me" vibe — exactly what a beginner needs. Rip off the band-aid and just post.

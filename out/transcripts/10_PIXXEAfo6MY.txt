@@ -1,0 +1,25 @@
+TITLE: My App Makes $20K/Month (niche weight-cutting app)
+FOUNDER: Ethan (19) — Cut Coach, a weight-cutting app for combat-sport athletes
+DATE: 2026-04-08
+URL: https://www.youtube.com/watch?v=PIXXEAfo6MY
+
+NUMBERS: $20,000 in a single month; $0 → $60,000+ total revenue in ~6 months; ~39,000 downloads. Dropped out of college a year ago. App = Cut Coach, gives science-based weight-cut protocols to combat-sport athletes (huge demand during wrestling season).
+
+BACKGROUND: Built first app (summer 2024) to automate his mom's work — took ~6 months. Built another using only AI tools → realized how fast AI was changing development → left university (was studying computer engineering). Early 2025 built several apps but DIDN'T MARKET them (his big mistake). Discovered Cursor → building got fast → shifted focus to learning SALES & MARKETING instead of only development.
+
+IDEA: A provincial judo + national wrestling champion who always had to cut weight and never knew how until a coach gave him a proper plan. Combined his passion (wrestling) with his hobby (building apps). Note: this is a TINY version of a big app (like Cal AI) for one specific niche (combat-sport/wrestling weight cuts).
+
+BUILD: Started June 2024 with Cursor + ChatGPT; ~1 month for the MVP, gave it to his wrestling club to beta test. V1 had the COACH give plans to athletes → too much friction, club didn't use it. July-Aug he flipped it so the APP gives weight-cut plans directly to athletes; tested cuts on himself; full redesign; released September.
+
+PLAYBOOK TO START OVER (niche app, 2026):
+1. Solve a problem within your HOBBY — you already understand and enjoy it, so it's easier to solve problems others share. Ask ChatGPT for app ideas within your chosen niche to brainstorm beyond what you'd think of.
+2. Open Figma and design right away; for wireframes, go to a popular/similar app in the niche, take elements from its layout and ADAPT (don't copy exactly) — stand on the shoulders of giants (e.g., Duolingo has tested their onboarding for years).
+3. Code it: tell Cursor to build the frontend first to match the Figma design, then build the backend. Stack: Cursor + ChatGPT (dev), Supabase (database), Vercel (landing page + JS), OpenAI API (AI features), RevenueCat + Mixpanel + Superwall (paywalls/analytics), cron jobs (scheduled automations).
+4. MARKETING — start with organic posts (idea-spied from same-niche social pages). First video: a UFC fighter before/after a weight cut + a CTA. Videos got few views (200-500) but VERY high intent → 10-15 downloads/day. A unique product solving a specific pain converts very well even with low views — you don't need millions of views; 5-10% conversion on views is huge. Niche apps are a big opportunity.
+5. SCALE with influencer marketing — niche = few big influencers, so partner with SMALL creators. Find them by scrolling your TikTok FYP / Instagram Reels and DMing; most said yes. Started with creators at ~1K-10K views/video, later moved to 20K+ views/video. Then put the influencer videos into PAID ADS → added a lot of extra revenue and scaled faster/more efficiently.
+
+PRODUCT: Open app → shows nutrition limits to stay within → log meals (auto-extracts nutritional values) → log daily weight to track progress → recommended meals to stay within limits and make weight on competition day.
+
+ADVICE: "Follow my own advice" — he used to make decisions based on others' opinions even when he knew the right answer deep down, living other people's lives. Now he adapts others' advice to his life rather than letting it control him.
+
+PRODUCER REFLECTION: No niche is too small — weight cutting for wrestlers feels narrow but it's a painful problem for a passionate, competitive community (high school/college sports) where parents/athletes will pay $30 because missing weight costs far more. If you're excited about a hobby, lots of others are too — build the niche up.

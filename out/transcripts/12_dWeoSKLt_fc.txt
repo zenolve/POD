@@ -1,0 +1,29 @@
+TITLE: I'm 14 And I Built A $14K/Month App
+FOUNDER: Evan — Locked, a gamified health/fitness (habit/focus) app
+DATE: 2026-04-01
+URL: https://www.youtube.com/watch?v=dWeoSKLt_fc
+
+NUMBERS: $14,000/month in a few months. Pricing: $40/year (with 3-day trial) or $7/week; an ABANDON paywall (if user X's out) offers a discounted $20/year. One influencer video (creator "Jeremiah Jones") drove ~$3,000 + ~1,800 downloads at ~1M views across platforms (revenue spiked from ~$300/day to $600-1,000/day).
+
+WHAT IT IS: A gamified habit/focus app — pick a character at onboarding, then leaderboards, XP, badges, levels, and a motivational screen keep users on task.
+
+BACKGROUND: Obsessed with entrepreneurship since age 9 (built Roblox games instead of just playing). Tried and failed at dropshipping, reselling, clipping, vending machines. Brother Zach suggested apps. First app Problem Pal peaked ~$2,000/month (recently sold); Clear AI went nowhere; then a friend's struggle to stay on task sparked Locked — deliberately NOT another boring habit tracker, so he gamified it.
+
+BUILD: ~2 weeks for Figma designs from scratch, then transferred to Xcode using YouTube tutorials + own knowledge + Claude Code. Idea to live in App Store: ~1.5 months. Stack: Figma (design), Claude Code ($200/mo), Superwall (paywall A/B tests, 1% of earnings), Supabase (database, free).
+
+CORE STRATEGY — influencer marketing where CPM < RPM: His channels paid ~$2-3 RPM, so he closes creators at a CPM in the ~$1-1.50 range. Influencers already have audience trust, so their recommendation feels far more authentic than a traditional ad → stronger results. Why the Jeremiah video worked: (1) high engagement / high-quality comments = a great audience (most important factor); (2) the creator's content (staying "locked in") perfectly aligned with the app; (3) seamless, natural integration. Always require creators to show the app within the first 15 seconds.
+
+PLAYBOOK — influencer marketing (start over, 2026):
+1. Find creators in your niche — search your niche on Instagram/TikTok, open their accounts, DM every one the same message starting with "paid promo?"
+2. Get them on a call.
+3. Close them on a PROFITABLE deal — a CPM lower than your RPM.
+4. Structure the deal — one of four options:
+   - Flat rate: e.g., $500/reel or $1,200/4 reels (only for creators who consistently get views and will hit your target CPM without a clause).
+   - CPM deal: $1-2 per 1,000 views, ALWAYS with a cap (e.g., cap $500 even if they get 10M views).
+   - Minimum View Clause (his go-to): e.g., $500 with a 500,000-view minimum — keeps CPM under RPM.
+   - Bonus deal: $500/video + an extra $500 if it hits 1M views.
+5. Launch the partnership — send video requirements + a contract, give a 1-week deadline for the first video. If it performs, keep working with them.
+
+ADVICE: Worry less about school, put more time into building. From a young age you're "sci-op'd" into one path (school → grades → college → stable job → happy); most people follow it without questioning. Seeing through that early is a huge advantage.
+
+PRODUCER REFLECTION: The app is "stupidly simple" and matches a demographic Evan understands. Habit trackers are crowded but a "little secret" is iOS ASO (App Store Optimization) — ranking in the App Store. Young founders aren't overnight successes — Evan has been starting (and failing at) businesses for years. You no longer need permission — open a vibe-coding tool and build a business.

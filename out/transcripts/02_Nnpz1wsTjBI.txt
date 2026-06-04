@@ -1,0 +1,27 @@
+TITLE: I Built A Micro-Version Of A $1B SaaS. Now I Make $50K/Month
+FOUNDER: David (+ brother Daniel) — Shipyard, an AI app builder
+DATE: 2026-05-28
+URL: https://www.youtube.com/watch?v=Nnpz1wsTjBI
+
+NUMBERS: ~$25.6K MRR, gross volume ~$71K/month (subscriptions 90% + one-off credit top-ups 10%), ARR $307K. ~690 paying users, ZERO free users (no free plan — reinvest revenue into product for paying users). Cheapest plan $25/month. Pricing = pay for credits to build apps; separate "cloud credits" (build backends) vs "builder credits" (everything else).
+
+BACKGROUND: David and his brother are both NON-technical, have built SaaS/tools since 2019, never liked coding so they learned marketing instead. First real success: Legit Check (luxury goods authentication) which funded everything after — was itself featured on Starter Story years ago. Built/scaled/exited/acquired several companies. Built an AI coding app with no coding experience.
+
+CORE STRATEGY — "copy-paste" / niche down a proven giant: Between 2020-2025 they watched no-code/AI app builders explode (Base44 hit $3M ARR in 6 months; Lovable hit $1M ARR in a week, now valued at $6B). Reasoned that owning even 1% of a massive market is life-changing. Plan: "Find one common pain point and triple down on it." You don't have to invent anything new — find a proven idea, niche it down, build your own version.
+
+HOW THEY BUILT IT: Started small — just them + one developer. First version was rough and broke a lot, but they shipped it anyway instead of waiting for perfect. Months 1-2 toughest; by month 3 had a confident working product; month 4 caught up to competitors; months 5-6 shipping features competitors didn't have. Constantly studied other players to move faster and avoid their mistakes.
+
+TECH STACK: Crisp (support), Notion (knowledge base), Frill (roadmap), Charge (email marketing), Webflow (landing page), WordPress (SEO blog + programmatic pages), Anthropic Claude models (core AI), GitHub (version control), Vercel (hosting), Railway (cloud), Neon (databases), Typefully + X Premium (marketing), Tolt (affiliates).
+
+GROWTH (0 → $50K/mo, NO paid channels ever):
+- Launched MVP on Product Hunt week 1 → first $50 MRR.
+- Reddit drove initial traction — regularly got ~400 upvotes, pushed them from $50 to $1K MRR.
+- High-intent SEO keywords: "[competitor] alternatives", "how much does [competitor] cost".
+- Build in public on X/Twitter. Around day 50 of building in public, X "went parabolic" — made ~$20K MRR in 1-2 weeks just by dogfooding the product.
+- Tactic from Rob Hallam (Super X): always put your product link in the SECOND tweet to squeeze more attention/traffic.
+
+DIFFERENTIATION (how they carved out their 1%): Competitors only build websites/web apps. Shipyard also builds mobile apps, Chrome extensions, and bots (Telegram, Discord). Found the gap by reading competitors' Trustpilot pages, public roadmaps, and joining their Discords to see what users complained about — a support-chat request ("I want to turn this website into a mobile app") sparked the mobile-app feature. Core promise: eliminate all technical terms — "transforms your thoughts/ideas into a live business that can make money with zero skills required."
+
+ADVICE: Start with something you genuinely know/care about. Look at a big industry and ask "What would this look like if it was built for people just like me?" Take what already works and niche it down (e.g., Duolingo but for cooking; a workout app turned social network; smaller versions of Calendly/Typeform/Intercom). Read reviews, find what people dislike about the giants, double down on fixing that. Keep your head down and keep building.
+
+PRODUCER REFLECTION: Andrew Chen (VC) essay — inventing something new is hard because you must change how people behave, a huge bet that's illogical for a bootstrapper. You don't need to execute perfectly if you're in a good, growing, high-margin market — you can get things wrong and still succeed. "Every business idea is taken" → here are 50 ways to make your app different.

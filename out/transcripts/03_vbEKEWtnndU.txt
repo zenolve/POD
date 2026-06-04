@@ -1,0 +1,25 @@
+TITLE: I Built A $30K/Month in 35 Days (PepAI)
+FOUNDER: Cedric Roberge — PepAI, a peptide-tracking app
+DATE: 2026-05-24
+URL: https://www.youtube.com/watch?v=vbEKEWtnndU
+
+NUMBERS: $50,000+ total revenue in 7 weeks. Last 28 days: ~$33K revenue, ~2,000 active subscriptions, MRR ~$11K. Pricing: $45/year or $10/month, 3-day free trial. Hard data via RevenueCat. App ranks #3 organically for "peptide tracker" in the App Store.
+
+WHAT IT DOES: Helps people track peptides safely (dosing calculator, injection-site logging, a Duolingo-style quiz/education feature, a research library citing PubMed, plus lifestyle features — meal scanning, nutrition, weight tracking, Apple Health, progress photos).
+
+BACKGROUND: College student. First app (Oct) was a student marketplace for Univ. of Oregon — got ~800 users by walking campus, but made $0. Lesson: need a SPECIFIC niche of people who would pay. Marketplaces are hard to monetize.
+
+HOW HE FOUND THE IDEA (trend-spotting): Roommate mentioned peptides; a week later peptides hit his TikTok For You page. He looked it up — huge on social media, no successful app existed (a couple old ones, none successful). That gap = the opening. Three signals aligned: friend mentioned it + saw it trending on TikTok + genuine personal interest. He read every review of existing apps (what people like/dislike/wish for), then had Claude research and build the best version.
+
+HOW HE BUILT IT (~2 weeks, vibe coding): Replit (describe what you want, it builds it) with Claude as his "senior developer" for setup (RevenueCat for subscriptions, Resend for email, anything he didn't know). Firebase backend for user data. Hardest part: Apple rejected it ~a million times (medical-advice concerns) — solved by studying how similar apps phrase things to find the approvable "good spot." Tip: you can EXPEDITE Apple review for major issues → reviewed in ~2 hours instead of 2 days.
+
+PLAYBOOK TO START OVER (find a trend → app, mid-2026):
+1. Live on social media — scroll TikTok/Instagram every free second; find what everyone's genuinely obsessed over. If multiple people post about it, it can become a tool people use.
+2. Check whether apps already exist in the space. If a few exist (but none marketed successfully), that's a GOOD sign — validated demand, just no winner yet. Zero apps can also work.
+3. Mine competitor reviews — go through every review, find likes/dislikes/wishes, feed it all to Claude/ChatGPT to generate your app idea and foundation. (Pat: a founder rebranded their whole app from reviews + Stripe cancellation reasons + support requests → grew ~350% after.)
+4. Find influencers in the niche and get them posting BEFORE launch. He DM'd creators, made Reddit posts, built a 300-person waitlist pre-launch. Results: one Instagram STORY post → $1,000 revenue; that creator's first real post hit 50,000 views → ~$4,000 in a day; ~$10,000+ total attributed to that one creator. Early trends have under-the-radar influencers who don't realize how powerful their audience is.
+5. MARKETING/DISTRIBUTION matters more than the idea or app quality. If you don't have a plan to market and distribute (influencers, ads, etc.), don't even build it. ("First-time founders think about product; second-time founders think about distribution.")
+
+ADVICE: Never give up, fully believe in yourself — even when friends mock the idea. Goal: scale PepAI to $1M/month.
+
+PRODUCER REFLECTION: AI coding tools are game-changers for "regular people" with ideas. The biggest underrated lesson: BUILD ON A GROWING TREND — you get tons of free users/revenue; even a crappy app succeeds if it rides something exciting (vs. something dying). Keep a "magnifying glass" on social media instead of brain-rotting.

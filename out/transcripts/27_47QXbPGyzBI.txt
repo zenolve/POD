@@ -1,0 +1,28 @@
+TITLE: I Made $500K From 8 Different Income Streams
+FOUNDER: Florin Pop ("Floren") — developer, content creator; a portfolio of online projects
+DATE: 2026-02-01
+URL: https://www.youtube.com/watch?v=47QXbPGyzBI
+
+NUMBERS: $500,000+ over 6 years across a portfolio of income streams: a course ($180,000+), his first successful SaaS ($68,000 revenue, later sold for $50,000), YouTube (ads + sponsorships, $100,000+), freelancing (tens of thousands), an ebook ($30,000+), consulting ($14,000), and smaller products ($10-15K combined). "None is massive on its own, but together they reduce risk."
+
+BACKGROUND: Learned to code in high school → freelancing (first dollar online) → 2 years in a corporate dev job (felt he was wasting his potential) → quit in 2019 to go all in. Used to chase big-money fast ideas and burned out repeatedly; shifted to a simple loop: "Build your stuff, share it online, get feedback, monetize, and repeat."
+
+WHY A PORTFOLIO (the "income portfolio" mindset): He didn't plan 12 projects — early on he was obsessed with finding the ONE idea that changes everything, and felt like a failure whenever something didn't work fast. Two realizations: (1) most projects fail due to TIMING, DISTRIBUTION, or MARKET — not because they (or you) are bad; (2) betting everything on one idea is risky emotionally and financially → burnout. So he built smaller projects (less pressure) — some for learning, some for money, some for audience. Over time they COMPOUND: content got attention → attention made products easier to sell → products created leverage. Like investing: don't put all your money in one stock — spread across many (index-fund mindset). Stopped putting all his time into one idea and started iterating fast.
+
+MANAGING THE TIME (the key nuance): It's NOT about building 8 projects at once. It's building ONE project at a time, focusing on it, growing it to a point where it can sustain itself (subtract yourself from day-to-day operations), THEN moving to the next.
+
+WHERE PEOPLE GO WRONG vs. RIGHT: Wrong = multiple projects in DIFFERENT niches at the same time (a fitness app + a B2B SaaS for creators). Right = build a portfolio AROUND THE SAME NICHE you know well. His path: created content for developers → products for developers → a learning platform for developers. Different products (course, ebook, SaaS) all targeting the SAME customer — that's what successful serial entrepreneurs do (and it enables cross-selling: someone who takes your course also signs up for your SaaS).
+
+PLAYBOOK TO FIND YOUR FIRST WIN (start over):
+1. Build something SMALL but useful — in days/weeks, not months (don't burn out); aim for useful, not perfect (a tiny tool/app/guide that solves a real problem). Best if you build it for yourself.
+2. SHIP IT PUBLICLY (non-negotiable) — post on Twitter, YouTube, Reddit, TikTok, wherever your potential clients hang out. Most projects fail because nobody heard of them.
+3. GET FEEDBACK — do people use it, ask questions, come back, complain? Use it to improve.
+4. Add MONETIZATION early — a pay tier is the real validation. The goal isn't to get rich; it's to validate that the problem is worth paying to solve.
+5. DECIDE to double down or move on — after a few weeks/months, if there's traction, double down; if flat, move on without guilt. Every project teaches you something.
+LOOP: build → ship → feedback → monetize → decide → repeat until something works. Then REDUCE how much it depends on you (automate, simplify, remove yourself) — frees time for the next idea AND makes it easier to sell later (e.g., his coding course now brings passive revenue).
+
+TECH STACK: Next.js, Supabase (DB/auth), Creem (payments), Vercel (hosting), Beehiiv (newsletter), DataFast (analytics), ChatGPT (AI).
+
+ADVICE: Stop comparing yourself to others — everyone's on their own journey at a different stage. "Stop comparing your level 3 with someone's level 20."
+
+PRODUCER REFLECTION: There are many ways to win — go all-in on one project OR run a portfolio. What matters is SHIPPING — putting the video/course/SaaS/MVP out into the world. "Action produces information." If you don't know what to do, just start doing.

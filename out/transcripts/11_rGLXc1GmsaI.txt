@@ -1,0 +1,26 @@
+TITLE: How This App Makes $35K/Month
+FOUNDER: Flo (Germany) — Money AI, an AI expense-tracking app
+DATE: 2026-04-05
+URL: https://www.youtube.com/watch?v=rGLXc1GmsaI
+
+NUMBERS: $35K+ MRR — but spent ~1.5 years scaling it to only $300 MRR solo, THEN partnered with ONE content creator and grew to $35K MRR in just over a year (over 10,000% growth). Subscription app, hard paywall + 7-day free trial (A/B testing showed hard paywall beats freemium). Quit his job this year to go full-time.
+
+WHAT IT IS: A minimalist money/expense tracker that makes data entry frictionless via AI (voice input, Apple Pay automation / Shortcuts integrations, AI reports you can query like "I want to save €300/month, where should I cut back?"). Deliberately NOT bloated like other expense apps.
+
+BACKGROUND: Wanted to study something creative, ended up in computer science, taught himself iOS, became a mobile UX lead. Built side projects next to his job; none succeeded until this one. Built Money AI for HIMSELF (kept quitting other expense apps because they were too cumbersome) and combined that with newly-usable AI. Key lesson from a prior failure: a previous app took 2 years and nobody cared — so this time he shipped the first version in 1-2 months and iterated continuously.
+
+THE BIG STRATEGY — ONE high-quality influencer with SKIN IN THE GAME: A fairly big influencer from COLOMBIA found Flo's socials linked in the app and reached out. The first video (late 2024) 10x'd MRR within a week; ~$8K within a month. Partnership structure: a fixed monthly retainer + a share of PROFITS (they switched from % of revenue, which didn't scale well, to % of profit). Profit-share means the creator is incentivized to do what's best for the app — he constantly thinks about how to make the best videos and is the creative mind behind ideas, so Flo doesn't have to. They post only 3 VERY HIGH-QUALITY, story-driven videos per month (quality over quantity). They don't usually get millions of views, but the views convert at a high rate. Growth steps over time: walkthrough video → $7.8K MRR; another short video → $13K; a WWDC (invited by Apple) story video → 1.7M views, +~$5K MRR; a much-wanted feature video → over $35K.
+
+PLAYBOOK — landing an influencer partnership (technical founder, 2026):
+1. Find ALIGNED partners — the influencer's lifestyle, tone, and audience must match your product. Flo wanted charisma + someone who connects with viewers (replies to comments — important since users will have questions) + tech-AND-lifestyle (not pure tech), so the audience cares about his story, not just specs.
+2. Warm up the relationship — follow and comment on their videos beforehand so they recognize you; if no time, at least be upfront (don't fake it).
+3. Be VERY SPECIFIC in outreach — don't send "I love your content, let's collaborate." Reference a specific video/moment/joke so they know you actually watch (e.g., "I loved how you made that little detail look so cinematic").
+4. Connect the dots to your product — show genuine ALIGNMENT, not just a transaction (his audience values aesthetics + nice tech; Money AI is minimalist-aesthetic + AI-heavy).
+5. (MOST IMPORTANT) Acknowledge their value and signal willingness to PAY very early — lead by making clear they'll be incentivized. Bonus: show examples of products in that niche already making money (look up on Sensor Tower). Sample pitch: "I understand the value of what you do — you can reach millions with a single video. I'd love a long-term partner and to share the app's profits. It might not be much at first, but other apps in this niche make $50-100K/month with the right distribution." (gives a future mental model)
+FINAL TIPS: Be BRIEF (creators get hundreds of emails/week). Bonus points for a personalized video mentioning the creator's name/content (most won't do it). Put your social handles in your app/profile (first thing you should do) so creators can find you and reach out — better negotiating position. Look BEYOND the US — huge opportunity with creators in other markets (his partner is Colombian).
+
+TECH STACK: Xcode (native, free), Claude Code (Max plan, $100), RevenueCat ($400/mo — revenue stats + A/B tests), Appwrite ($25 — backend/auth/DB), OpenAI (easier tasks) + Anthropic (deeper analysis, ~$200/mo), Helm (App Store Connect, $175 lifetime), Figma (free).
+
+ADVICE: He was reluctant/intimidated by Meta Ads, afraid of wasting money — but the creator's great videos make perfect ad creative. They started a few weeks ago with great results; should have started sooner.
+
+PRODUCER REFLECTION: The "influencer-for-equity" / profit-share model is great for developers who aren't content creators, and will get bigger. Also: "it's just another budget tracking app" — and still makes great money, because what matters is DISTRIBUTION (and tapping non-US markets like Colombia/France/Argentina).

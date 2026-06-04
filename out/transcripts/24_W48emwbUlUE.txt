@@ -1,0 +1,25 @@
+TITLE: How I Built a $12K/Month Micro-SaaS
+FOUNDER: Vikash (India) — Bulk Mockup, a Photoshop plugin
+DATE: 2026-02-11
+URL: https://www.youtube.com/watch?v=W48emwbUlUE
+
+NUMBERS: ~$12,000-13,000/month (consistent, via Gumroad). 100+ five-star reviews (mostly praising support). Subscription $15/month.
+
+WHAT IT IS: A Photoshop plugin that turns the manual mockup-creation process (30-60 min) into ~2 minutes — point it at template + design folders and it batch-generates mockups (e.g., 50 mockups in ~1 minute; 1,800 mockups in under 30 min). Customers find it via YouTube and pay monthly.
+
+ORIGIN: Freelanced Photoshop jobs on Upwork/Freelancer.com. A client wanted to automate part of Photoshop; instead of skipping, Vikash learned JavaScript in one day on Stack Overflow and hacked a Photoshop script. It became his internal tool. On a 1,800-mockup print-on-demand gig (client expected 3-4 days), he finished in under 30 minutes; the stunned client wired $300 for the tool without a second thought → Bulk Mockup was born. (Upwork/Fiverr are full of business ideas hiding in plain sight.)
+
+BUILD: Started as a hacky one-time-fee script (not defensible). Locked himself in his room for 2 months to turn it into a (bad-UX but working) product. Couldn't do license validation/user management, so sold it as a LIFETIME deal for a couple years; once he had funds, hired an Upwork developer to polish it into today's product.
+
+CORE STRATEGY — the "CONTENT FLYWHEEL" fueled by CUSTOMER PAIN: Discover customer pain → create content around it → content attracts new customers → they reveal new problems → feeds back into new content. He makes YouTube videos that solve LONG-TAIL customer problems. They don't get many views but solve a real pain → viewer finds the solution, trusts him, buys. "You do not need a viral video — a simple video that solves a customer pain is what you need." Examples: a 370-view video (4 months) → 3 customers = $345 MRR; a 12,000-view video (6 months) → $213. Every video is a compounding ASSET on YouTube + Google. Production is bare-bones: don't care about intros/setup — just record the solution; speak to their problem directly (don't frame it as a "viral YouTube video").
+
+THREE-STEP PLAYBOOK:
+1. COLLECT customer pain (don't brainstorm — harvest) from 4 touchpoints: (a) lurk in communities where customers hang out, list repeated pains, start convos for context, never sell; (b) ONBOARDING emails offering a custom tutorial (customers submit great long-tail tutorial ideas); (c) CUSTOMER SUPPORT as an education channel — ask for their file, record a custom Loom/tutorial, sometimes hop on a call and solve it live; over 3 years they have 1,500+ recorded videos (a goldmine of real problems/edge cases that never show up in keyword research); (d) YOUTUBE COMMENTS — find niche videos with low views but HIGH comments (signals unresolved pain), list the objections, make better content answering them.
+2. CREATE content — easy because the pains come from real conversations (you already know the customer and problem).
+3. DISTRIBUTION — before publishing, find an SEO angle and optimize the video for Google search/ranking. Little-known hack: a YouTube video optimized for the same search intent will RANK ON GOOGLE — 22% of their YouTube views come from Google search. On-page SEO is simple: put the keyword in the title, description, and first 30 seconds of the transcript.
+
+TECH STACK: Komodo (Loom alternative, $19 AppSumo lifetime — tutorials), Boldesk (support tickets, ~$15/mo), Sanja (showcase reviews), Zoom (support calls, ~$20), Adobe ($40/mo), Boromi (screen recorder for tutorials), Notion ($12/mo, content system), Cal.com (free scheduling).
+
+ADVICE: (1) Don't ignore your health — 14-16 hour grinding led to spine surgery. (2) Be OBSESSED with your customer's problem — listen, and create the solution (a product, a video, anything).
+
+PRODUCER REFLECTION: Talking to customers is a multi-million-dollar goldmine of ideas/marketing/content — you're crazy not to. A good business idea makes people money, saves them money, or saves them time (this saves time). Build "pointy feature" / micro-SaaS that does ONE thing very specifically rather than boiling the ocean.

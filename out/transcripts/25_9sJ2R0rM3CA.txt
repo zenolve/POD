@@ -1,0 +1,25 @@
+TITLE: I Make $150K/Month From 20 Tiny Apps
+FOUNDER: Katie Keith — Barn2, a portfolio of 19 WordPress plugins (+1 Shopify app)
+DATE: 2026-02-08
+URL: https://www.youtube.com/watch?v=9sJ2R0rM3CA
+
+NUMBERS: ~$1.8M/year (~$1.7M from plugins + affiliate income + dev services); avg ~$150,000/month across all plugins (higher in November, lower in December). $9.8M in lifetime plugin sales. Plugins on 90,000+ sites; 17,000 active paid subscriptions (more if you count lifetime buyers, ~15% of revenue). Built over ~10 years with a remote team. Plans: 1 site / 5 sites / 20 sites, annual subscription or lifetime.
+
+WHAT IT IS: 19 fairly simple WordPress/WooCommerce plugins (e.g., Document Library Pro, WooCommerce Protected Categories, Post Table Pro, product tables/options) — small-to-medium tools that each add a specific function. Simplicity is how they can run so many.
+
+IDEA ORIGIN (organic, never planned 19): First plugin (WooCommerce Protected Categories) came from the WooCommerce Ideas Forum — they picked an idea many people were voting for (a gap in the market). Second (Post Table Pro) came from a client project. After that, customer FEATURE REQUESTS surfaced ideas — sometimes the best way to deliver a request was a whole new plugin, not a feature. "Get a product out there and keep your ears open" — user feedback flows in without asking, and creative thinking turns it into more products.
+
+GROWTH — organic SEO + cross-promotion: Most customers always came from ORGANIC SEARCH. Because the first plugin was unique (a market gap), Katie (a marketer) published blog posts/tutorials ("how to password protect categories in WooCommerce") and ranked top of Google quickly → first sales within days. They've always produced genuinely helpful, unique content across many use cases. The portfolio enables CROSS-PROMOTION / multiple sales from the same customer: 1-plugin and 2-plugin bundles; for each product they pick a closely-related plugin to upsell; 3 days post-purchase, send an email offering 50% off the next plugin; segmented Black Friday campaigns ("discount off your NEXT plugin" for existing customers); banners on settings pages reminding users of complementary products. Trick: segment the list so you recommend very closely related products → maximizes likelihood of buying.
+
+PLAYBOOK TO START OVER (multi-product software company, 2026):
+1. Focus on an area you're already FAMILIAR with (e.g., if you build WordPress sites for clients, build WordPress products) — that's where you have unique insight into the gaps.
+2. Come up with SEVERAL product ideas at once — start with a long list, research/validate each, choose a handful with the most potential, and prioritize ideas with OVERLAPPING markets (for cross-promotion).
+3. Build the ONE with the most potential first (largest audience where you can carve out share) and launch it as your ONLY product — don't launch multiple at once; each needs dedicated marketing time and listening to early users. Don't spread yourself thin.
+4. When ready for product #2, market it as a STANDALONE product and add advanced cross-promotion (cross-linking on your site, emailing existing users with discounts, beta-test invites, docs pages about the other product, post-purchase emails).
+5. Repeat until you have a portfolio that each generates revenue — without spreading so thin you can't do any justice.
+
+TECH STACK: ClickUp (project management, time tracking, company chat), GitHub (free, source code), Zapier (automations), WordPress (company site) + Easy Digital Downloads (~$300/year, sells plugins / licensing / download delivery).
+
+ADVICE: Just do it — get to work and launch a product. Once something is out in the world, opportunities (and feature requests that lead to future products) start coming. If you do nothing, nothing happens.
+
+PRODUCER REFLECTION: Multiple products used to be crazy (each meant an engineering team and more daily bugs), but AI lets you spin up an app in a day — so the audience/customer is what's valuable. The right way: build different apps for the SAME customer and cross-sell them as separate products (better for the customer than one bloated monolith). Start with ONE thing you know a bit about; ideas then "come to you like water." (Cf. John Rush, and the health-apps founder doing the same.)

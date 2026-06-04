@@ -1,0 +1,29 @@
+TITLE: Zero to $40K/Month With One Marketing Channel (No Social Media)
+FOUNDER: Mickey (Spain) — Late, a social media API for developers/brands
+DATE: 2026-03-04
+URL: https://www.youtube.com/watch?v=E_rX4JJrYkY
+
+NUMBERS: $0 → $40K MRR in ~7 months via Google search. ~50K total signups since launch, 700+ paying users, churn <10%. Profitable. Of revenue: ~$8K MRR from organic SEO + ~$15K MRR from paid Google search (spends ~$8,000/mo on Google Ads at ~$2.5 revenue per $1 spent).
+
+WHAT IT IS: Late wraps the official social APIs (Facebook, Instagram, Twitter/X, LinkedIn) — they pay for the highest plans and handle all platform permissions — and hands you a single developer-friendly API with everything, no limits. Pricing by connected accounts (Build / Accelerate / Unlimited tiers). The differentiator vs. competitors: simple, affordable, API-first, and great DOCUMENTATION (essential for developers).
+
+BACKGROUND: 5+ years with startups (founded "Academy" in Spain, raised VC, now 100+ employees). Spotted a gap: no simple, affordable social-media-automation API with good docs. Decided to focus entirely on DISTRIBUTION (build is not the point) via proven channels: SEO + paid ads.
+
+CORE STRATEGY — capture EXISTING high-intent demand (not create it): Social media is noisy/oversaturated and organic reach is dead, but people actively SEARCH "social media scheduling API" / "Twitter automation tool" with 10x higher buy intent. Focus 100% on high-intent channels (SEO + Google search ads) — predictable unit economics, not dependent on luck/trends. The SAME useful content serves both: if a page ranks organically, great; if not, run ads on it. Use data from both to optimize landing pages/messaging; reinvest all revenue into scaling what works.
+
+ORGANIC SIDE: Target very bottom-of-funnel keywords — use Ahrefs to find 300-800 monthly-search, low-competition, very high-intent terms ("social media API", "scheduling API for Twitter"). Write in-depth guides answering intent ("how to schedule Instagram posts automatically"). Maintain clean site structure, fast load, mobile optimization, proper metadata. Do link building (tools + manual paid outreach). Track rankings with Ahrefs + Google Search Console, constantly optimize CTR. (→ ~$8K MRR organic.)
+
+PAID SIDE (the guaranteed revenue engine): Bid on the same high-intent commercial keywords; create a CUSTOM landing page per ad group tailored to the keyword/intent ("Instagram API" → an Instagram-specific page). Automate with Google Ads automated bidding at a target CPA of $120 (their average acquisition threshold). Ad copy focuses on VALUE not features ("scale 30 days of social media in 1 hour"). Continuous A/B testing of headlines, descriptions, landing pages (tracked in PostHog). (→ ~$15K MRR.)
+
+GOOGLE PLAYBOOK TO START OVER (SaaS, 2026):
+1. Find your CORE high-intent keywords very close to your value prop (Ahrefs/SEMrush, but many are obvious like "social media API"). Spreadsheet them with volume + difficulty; focus only on these and aim to rank within 3-6 months.
+2. Create high-quality CONTENT for those keywords (blog, landing page, or free tool) with a big CTA to your signup page; add internal linking. Push ~10-15 high-quality articles in the first week for momentum (don't overproduce — Google prefers quality).
+3. Launch ADS using that data/content — set up Google Ads, ad groups around the same keywords, 3-5 copy variations focused on value propositions.
+4. OPTIMIZE & SCALE on data — identify which keywords bring new customers, double down on high-ROI keywords, pause poor performers, test headlines/copy/CTAs, increase budget month over month while ROAS holds.
+5. TRACK & improve CAC — dashboard (Sheets/Data Studio) for CAC, ROAS, revenue, traffic per channel. Good CAC = 20-40% of LTV; keep CAC under 30% of first-year revenue. Every month A/B test new keywords/copy/landing pages based on last month.
+
+TECH STACK: Claude Code (faster coding), DataFast (track what brings revenue), Google Ads (~$8K/mo), Ahrefs (~$200/mo for organic insights/monitoring), PostHog (A/B testing).
+
+ADVICE: Stop trying to be everything to everyone. Picking ONE growth channel and getting really good at it (for him, paid search) is 100x better than being mediocre at 10 channels. Pick your single best growth lever, get obsessed, measure relentlessly.
+
+PRODUCER NOTE: Google search isn't dead — INFORMATIONAL queries are dying to AI ("how to write a good post" → ChatGPT), but INTENT-based commercial queries ("social media scheduler", "I need insurance") still convert and click through to buy. Google is a great first channel for people who don't want to be on camera (the "spreadsheet/finance type").

@@ -1,0 +1,30 @@
+TITLE: I Built A $30K/Month App: Here's My Exact Process [Idea, Build, Marketing]
+FOUNDER: Benji (Snag — find free items near you), 10X Studio
+DATE: 2026-05-31
+URL: https://www.youtube.com/watch?v=P4QodeA_lQ0
+
+I decided to really lock in and focus on building one specific product and we've gone from 0 to 30k MRR ever since. This is Benji and in the last year he's built over 45 apps and his latest one just hit $30,000 a month in less than 4 months. But this isn't a story about one app. It's about the system behind all of them — the exact process he follows every single time to go from idea to revenue fast. The entire process usually takes around four to five hours to actually get a good app built out.
+
+Benji's background: grew up in Asia, played by the books, 4.0 GPA, sold his first media company for six figures, worked in quant research and media companies before pursuing software products. In the past year built over 45 apps. First app was Pillar (self-improvement), scaled to 11,000 users with basically zero CAC, then stopped due to shiny object syndrome. Built HighGPT next, then 43 more products, before deciding to lock in on one product (Snag) that could scale over time with great people.
+
+Snag is an app that helps people find free items near them. ~$30,000 MRR, 100,000+ authenticated users, 9,000 conversions, $80,000+ total proceeds, 3.3K App Store ratings (important social proof for consumer apps). Weekly/monthly/yearly/one-time subscriptions.
+
+PROCESS TO BUILD 40+ APPS: The highest leverage thing is to find a great idea. Start from the marketing — reverse engineer the value proposition you want to show in your app first. Then think what the app would look like to attract a user in 3 seconds. Go to Figma, wireframe it, design it, feed the designs to Claude Code in your IDE and code it. Entire process ~4-5 hours to get a good app built out (without the backend).
+
+TECH STACK: Cursor (IDE), Claude Code Max (codes the entire thing), GoDaddy (domain), Loops (emails to churned users to convert them back), Superwall (A/B test paywalls), Mixpanel (track onboarding quality), Apple developer account, Figma, Supabase (backend).
+
+FINDING IDEAS: YouTube and Twitter are great sources of inspiration — you see people making money from all sorts of ideas and can discover underserved pain points. Or use Sensor Tower to search for ideas making a lot of money and copy the same app but make it 10% better. Example: after HighGPT launched, ~20 copycat apps appeared but they're also making hundreds of thousands of dollars because they have better UI, marketing, funnels. Ideas aren't worth much if you can't deliver the product to the end user in a better way.
+
+MARKETING (UGC → PAID ADS): Ran UGC campaigns at scale, then turned winning creatives into paid ads. Reach out to a bunch of creators, filter one by one by interviewing to see if they have virality built in. ~10% pass rate (for every 100 creators interviewed, ~9-10 good ones). Put them on a monthly retainer + CPM structure, then test them. If they do over 50,000 views per video, those are great videos to run on Meta ads. Set up test campaigns on Meta, figure out ROAS. ROAS > 1 means you're making money. Meta ads are not linear growth — diminishing marginal returns; if you make 10% margin at $100/day, spending $200 doesn't give 20%. Watch for ad fatigue and pump out more creatives to test more options and find the most optimal ones.
+
+UGC EXAMPLE: A soft-selling video got 240,000 views. Rule of thumb: every 100,000 views ≈ $1,000-$2,000 in direct subscription profit. Two-step paid ad approach: test campaign at ~$50/day to test whether a creative is worth scaling. If ROAS > 1 or high CTR, scale gradually: 50 → 100 → 200 → 300/day. Spent ~$3,000 total on one ad before ROAS went negative. Number of creatives matters a lot — more tickets to the lottery.
+
+PLAYBOOK TO START OVER (consumer mobile app in 2026):
+1. Find an idea that is actually scalable and that you can implement properly — highest leverage step. A good product doesn't need much "marketing"; people convert at a higher rate and don't cancel because the product provides real value. Snag: pay a few dollars/month, get access to products worth hundreds of dollars → high conversion.
+2. Start building — open your IDE, use Claude Code. Early on you'll build single-use-case apps (essentially API wrappers), which is fine. Use the API properly, make sure the app functions, and add user authentication so you can get approved on the App Store.
+3. Distribution — if you don't have money for UGC creators/influencers, film them yourself. Filmed thousands of videos for previous apps himself. Find an editor to edit at scale, package deal to run as paid ads. The greatest skill right now is the ability to create content and get views/engagement in the algorithmic TikTok world.
+4. Iterate on the product for higher LTV, lower CAC. Focus on generating real value — business is the transaction of value.
+
+ADVICE: Create your own luck and meet the right people. Learned a ton in a few months from meeting Blake Anderson. Working with great people makes you improve to match their pace. Not meaningless networking — keep doing the work, iterate, learn from mistakes, and you'll reach a point where you can work with great people, which leads to great opportunities and more learning. "You are the average of the five people you surround yourself with."
+
+PRODUCER REFLECTION (Gus/Pat): Benji has a proven system, knew the numbers and creatives cold. He's not worried about things going wrong — straight to the point, doesn't overcomplicate. Smart builders act instead of worrying "is my idea going to work, what will people think." Build apps, get your ROAS up, you're good to go. It's math. But you still have to find your idea and build something.

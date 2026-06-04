@@ -1,0 +1,31 @@
+TITLE: I Built a $20K/Month App in 83 Days
+FOUNDER: Brian Shin (+ girlfriend/co-founder) — Once, a digital disposable-camera app for events
+DATE: 2026-05-10
+URL: https://www.youtube.com/watch?v=r4R_Hlw7sbo
+
+NUMBERS: $20K MRR within 83 days of launch (launched Dec 2025); ~$22K the recorded month. ~10,000-12,000 weekly active users. ~300 events in Feb, ~700 booked for March. Pricing scales by guest count: 10-person party = $2; 150-person wedding = $50 (more guests = higher tier).
+
+WHAT IT DOES: A digital disposable camera for weddings, birthdays, corporate events — captures candid group photos in one shared album, replicating the magic/limitations of a real disposable camera (can't see photos right away, limited shots, delayed reveal).
+
+BACKGROUND: Previously co-founded a venture-backed, sales-driven 50-person B2B startup — learned what a real fast-growth business takes. Discovered the bootstrap/indie-hacker scene (small, safer bets vs. betting your whole life). Wanted full product control, so went fully bootstrapped with his girlfriend.
+
+IDEA: He and his girlfriend traveled to 7-8 countries carrying a disposable camera everywhere. Its limitations made the experience feel "real." Idea: build a digital experience replicating the disposable camera.
+
+BUILD: First version = a web app in ~1-2 weeks with just core features, built for an upcoming Halloween party (printed invite codes for guests). It broke many times but validated the core idea (people love pooling candid event photos into one album). Then they THREW OUT v1. Belief: a consumer app is a craft — uses AI heavily for dev/finance/everything, but NEVER for design ("design requires taste; the more opinionated, the better"). Lives on Claude Code.
+
+TECH STACK: Figma (all design), Claude Code Max (dev) + Conductor (run several Claude Code instances on different worktrees at once), Supabase (database/backend), Vercel (web aspects).
+
+VALIDATION — the "COMMITMENT METRIC" (the standout idea): Make people commit BEFORE writing a single line of code. Two parts:
+- Personal network: open X, LinkedIn, Instagram/Facebook side by side; go through your entire friends list; circle everyone with a potential event coming up. He found 4 friends with events (Halloween, birthday, wedding, networking).
+- Beyond your circle: searched Instagram #wedding / #birthdayparty, listed ~250-300 people, sent a simple 2-3 sentence cold message. ~15 replied, booked ~12 events for one month → "this has market potential."
+
+PLAYBOOK TO START OVER (0 → $20K in 83 days):
+1. Define your COMMITMENT METRIC — commitment from yourself (a specific date + number of customers/metric to hit) AND from users. The user's commitment signaling validation doesn't have to be payment; for Once it was event hosts actually using the product at an event (almost a proxy for payment).
+2. Exhaust your personal network — open all social profiles, reach anyone matching your ICP. Beware the "Mom Test": friends/family get over-excited; be honest so you're validating, not fishing for encouragement.
+3. Build a quick mockup — don't spend more than 2-3 days (Figma or AI tools). However crappy, get a simple product to show users.
+4. Go where your users live (Reddit, TikTok, YouTube) — this channel becomes your future main marketing channel. Do tons of cold messaging: "if you haven't been banned at least twice, you haven't tried enough."
+5. Set a number that gives you enough signal/confidence. For them: 10 events with an actual date and an actual commitment to use the product, BEFORE writing any code.
+
+ADVICE: Stop overthinking and just launch. Don't obsess over marketing/sales mechanics when going 0→1; spend that time talking to users and shipping a v1 in 1-2 weeks. Your assumptions often collapse once real users touch it — you may be solving a different problem than you thought.
+
+PRODUCER REFLECTION: AI tools are a crutch — they let you skip the hard part (talking to people) by just building. In a world where anyone can build anything in an hour, the secret sauce is going out and setting a commitment metric ("10 people say they'll use this before I finish it"). The scary part — messaging people you haven't talked to in 10 years — is exactly the high-value work.

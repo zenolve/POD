@@ -1,0 +1,32 @@
+TITLE: I Make $1.7M/Year In The Most Boring Niche Imaginable
+FOUNDER: Bo — co-founder of Savvy Nomad (helps US citizens abroad pay less US tax)
+DATE: 2026-05-21
+URL: https://www.youtube.com/watch?v=BHhg-l9AZpM
+
+NUMBERS: $1.7M/year ARR, $140,000 MRR, ~1,400 customers, ~$10M saved in state taxes for customers, only 6 employees. Adds 120-150 new customers/month. Three subscription tiers (basic "domicile", mid-tier most popular, "domicile premium"); charges customers up front. The product = "American infrastructure for people who don't live in America anymore" (e.g., state domicile change).
+
+BACKGROUND: Software engineer who chose to get in front of customers (parallel to Pat's SWE→media path). Due to the war in Ukraine, rebuilt his life internationally → pulled into international taxation → earlier digital-nomad-tax startup (which he shut down). Saw Americans were the biggest, most underserved group. Co-founder met California surfers stuck paying CA state tax abroad, built an initial version; Bo joined as marketing/business co-founder.
+
+WHY THE BORING BUSINESS WORKS (4 reasons):
+1. Low competition for REAL demand — unsexy markets have fewer talented founders chasing very real problems; the opportunity-to-competition ratio is far better.
+2. Extremely high willingness to pay — people don't want to deal with taxes/compliance/domiciles; they'll pay to forget about it.
+3. Concrete, QUANTIFIABLE value — you can say "here's the financial benefit, here's the cost." Rational, easy decision → you sell less. (vs. AI apps selling a vague "brighter future".)
+4. It matched the team's complementary strengths.
+
+THREE BORING MILLION-DOLLAR IDEAS he'd build:
+1. Productize immigration workflows — people pay agencies $8-15K for what is essentially a workflow problem; a product (guided process, templates, lawyer review at the end) could charge $1-2K and feel like a steal.
+2. Help people move to tax-friendly jurisdictions (Dubai, Costa Rica, Malaysia) AND cleanly exit sticky ones (Canada, UK, Spain have exit procedures, notifications, exit taxes). Productize entry and exit.
+3. International banking, asset holding, estate planning for founders/investors spread across countries (e.g., open a Singapore bank account, choose jurisdictions for real estate/IP). No real product exists. Key insight: it's often the SAME customer at different life stages = one customer, multiple revenue events.
+
+PLAYBOOK TO START OVER ($0 → $1M in an unsexy niche, 2026):
+- Start with painful problems where people are ALREADY overpaying — categories where people are stressed, confused, losing money: taxes, compliance, legal, workforce, residencies, banking, documentation. The less people want to deal with it, the more valuable to solve. Look at how they currently solve it — usually two extremes: DIY (scattered blog posts/Reddit threads) or hire a pro for thousands. The gap is your product.
+- Evaluate competition RELATIVE to opportunity — don't just ask market size; ask how many smart, capable founders actually choose to build here. Unsexy = real demand + high willingness to pay + few competitors. That asymmetry is your edge.
+- Pick ONE workflow, productize it, build a recurring layer on top. Don't build a platform — pick the most common, most painful workflow and make it a repeatable step-by-step product. For them it was state domicile change; they didn't solve all international tax, just one thing really well.
+
+PRODUCT/ONBOARDING: Asks qualifying questions, SHOWS the customer how much they can save (transactional value), then presents the best-fit plan. Most customers finish the online part in <1 hour.
+
+TECH STACK: Bubble (entire product), Framer (marketing site), Ghost (content), ChatGPT + Claude (operations), Ahrefs (SEO), Customer.io (email), Power BI + BigQuery (dashboards/reporting on a data warehouse), TurnKey (churn analysis), Stripe (billing), SavvyCal (scheduling).
+
+ADVICE: "The difference between a winner and a loser is the winner tried one more time." He shut down his previous startup, felt defeated, but tried again. Just go solve a real problem instead of chasing every shiny AI tool.
+
+PAT'S TAKE: "I'd rather make $2M/year in a boring business than $20K/year in a sexy AI app." Decades of regulation (tax/compliance/immigration) isn't going away, and now AI + software can productize these services worldwide.

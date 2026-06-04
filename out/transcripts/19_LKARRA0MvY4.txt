@@ -1,0 +1,27 @@
+TITLE: I Built a $10K/Month SaaS Using Other People's Customers
+FOUNDER: Ivan (Macedonia) — Lancer, an AI agent that automates Upwork job discovery/qualifying/bidding
+DATE: 2026-03-08
+URL: https://www.youtube.com/watch?v=LKARRA0MvY4
+
+NUMBERS: Hit $10,000 MRR in the 3rd-4th month after launching, with ZERO paid ads. Premium SaaS subscription, three plans: Pay-as-you-go $79 (30 proposals, $2/extra), Light $300 (250 proposals, $1.50/extra), Unlimited $500/month (launch offer). Most growth came from just TWO Upwork coaches.
+
+WHAT IT IS: Lancer is an AI agent that turns Upwork into an automated client-acquisition channel for freelancers/agencies (5-6 figures/month for them, saves 10+ hours/week). It uses LLMs for two jobs: job qualification + proposal writing.
+
+BACKGROUND / IDEA: Ivan ran a 7-figure software dev agency (~20 employees) for 5 years; their main client-acquisition channel was Upwork (~200,000 jobs/month posted across 24 hours; ~10 min to qualify + write a personalized proposal). Perfect case where an AI agent outperforms a human ~10x+. Built it as an internal tool (over a weekend), it crushed; a beta test with friend agency-owners closed three 5-figure clients in two weeks → launched as standalone product.
+
+THE OPPORTUNITY — AI agents on top of platforms: Automating workflow parts that live on top of existing software platforms (a "software niche") is very powerful, and it's EASIER to reach customers because users already live on the platform (on Upwork the ICP is public). Any platform with a huge user base is something you can automate and build on top of (Fiverr, LinkedIn, Poshmark, Pinterest, Photoshop...).
+
+CORE GROWTH STRATEGY — "CONNECTORS" (affiliates one layer above your ICP): Instead of paying ads / cold-emailing the ICP directly, identify the LAYER ABOVE them — a profile of user who already has access to them — and convince them to be affiliates. Selling one connector becomes a single "high-ticket sales call" instead of hundreds of calls for a $200/mo SaaS. The right connector: (1) has a network full of your ICP, (2) has great reputation + commands trust within that network, (3) bonus: is good at sales. For Lancer, connectors = Upwork COACHES (each has 5-20 new paying customers/month paying $600-1,000+ for lead help; great Upwork profiles with lots of inbound → easy to upsell Lancer). How he landed them: coach #1 came via a beta user's intro — he just demoed it and the coach started referring every client; coach #2 via cold LinkedIn outreach — he straight-up offered $1,000 to jump on a call (paid him to be a user). Commissions: 30% lifetime if they fully onboard/set up the client, 20% if they just refer.
+
+PLAYBOOK TO START OVER (SaaS / AI agent, connector growth):
+1. Define your ICP — who has the problem AND is willing/ready to pay; for SaaS, ideally onboards easily (low friction, self-onboards) and doesn't churn. (You can't really know your ICP until you have paying users — theirs turned out to be agencies, not freelancers.)
+2. Go a level ABOVE — find the type of user who has a wide network of your ICP and commands their trust/respect (Upwork coaches).
+3. Write a very PERSONALIZED pitch/offer to connectors — do real research, reference their work, even a long Loom video. (You'd never do this to close one random subscriber, but for an affiliate it's worth it.)
+4. Work out the details — standard is 20-30% lifetime commission; adjust for network size / social following / existing competitor deals; sometimes pay up front (case-by-case based on their value).
+5. Track affiliates and do monthly payouts — once you close a connector you get inbound Stripe sales / booked calls; he uses Tolt (affiliate marketing software) to track and automate payouts.
+
+TECH STACK: TypeScript (front + back: Next.js + Node.js), but now coding mostly via Cursor with Opus 4.5; OpenRouter (LLM APIs); hosting on Hetzner + GCP (+ Firestore); proxy providers (safe Upwork connection); Elasticsearch (querying jobs/data); Tolt (affiliates).
+
+ADVICE: Start building software products NOW. He delayed jumping into "the arena" to optimize for income/security (a highly profitable dev agency with a hard ceiling). The problems you solve building/growing a software product today are so highly leveraged and broadly applicable that mastering them is worth more than a year or two of even six-figure income. We're early in the AI revolution — decades of opportunity ahead.
+
+PRODUCER REFLECTION: A great example of an AI agent that actually makes money — automating boring, repetitive work on platforms (Upwork, Fiverr, LinkedIn, Photoshop...) wasn't possible a couple years ago.

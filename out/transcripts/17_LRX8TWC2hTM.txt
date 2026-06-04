@@ -1,0 +1,25 @@
+TITLE: I Make $60K/Month From the Most Boring SaaS on the Internet
+FOUNDER: Thomas (Tom) — Packager, a tool to deploy apps to Microsoft Intune in one click
+DATE: 2026-03-15
+URL: https://www.youtube.com/watch?v=LRX8TWC2hTM
+
+NUMBERS: ~$60,000/month, 100% bootstrapped, thousands of paying customers, growing $447K → $910K (year over year). $25/month subscription. Likely very low churn (IT admins inside companies).
+
+WHAT IT IS: A browser-based tool that lets IT admins deploy applications to Microsoft Intune with one click (select an app from a catalog like 7-Zip → deploy → it packages and uploads into the Microsoft tenant). Boring, no fancy design, but extremely useful.
+
+IDEA / VALIDATION: While working with Intune, Thomas found packaging one app could take ~an hour. Forums showed many IT admins had the SAME problem; existing solutions were too technical or too expensive. He saw a niche for an affordable, modern, browser-based tool that does ONE simple job: deploy applications. (Built before Cursor/Claude Code existed — much of it hand-written.)
+
+DISTRIBUTION / GROWTH: Launched the MVP for FREE on Reddit (best place for this audience) → quick traction, great feedback, and some harsh/rude comments (you have to accept that some people won't like what you built). After fixing early bugs and stabilizing, introduced a $25/month fee → first paying customers. Most effective ongoing strategy: PARTNER with people who specialize in the product — for him, Microsoft MVPs who create demos for a highly targeted audience. He loves "planting seeds": a YouTube video someone stumbles on 2 years later can become a customer → huge ROI.
+
+PLAYBOOK TO START OVER (find a low-competition niche SaaS, 2026):
+1. Build in an area where you already have CREDIBILITY — he was "living and breathing" Microsoft Intune; customers can tell you love what you do.
+2. Look for PAIN POINTS instead of ideas — if people around you (e.g., at work) complain about something, see if you can build a product they'll buy to fix it.
+3. AVOID competing with the masses — while everyone fights over huge markets, target smaller audiences who want something different. Competitors chased customers with millions of devices; he targeted SMALL businesses — plenty of them, enough for a full-time business.
+4. CHARGE EARLY even if the price is low — he charged during beta, which validated willingness to pay. No point chasing an idea no one will pay for.
+5. Optimize for FREEDOM, not scale-at-all-costs — small team, low costs → the income is theirs, work from home, work-life balance, a life he's happy with.
+
+TECH STACK: Bubble.io (frontend), GitHub Actions (package build/testing + code hosting), Microsoft Azure (serverless functions), monday.com (dev tracking/tickets), Microsoft 365 licensing per staff member.
+
+ADVICE: Just START. With low-code + ChatGPT, building has never been more accessible — but that means someone else could build your idea while you're still planning. Speed is key: launch early, share with your target audience, listen closely to feedback, and enter a continuous improvement cycle.
+
+PRODUCER REFLECTION: If it's boring and "doesn't make sense" socially, that might be the direction to go — low churn, real business. Think about the times you sat in a 9-5 wishing a task was easier — that's the idea.

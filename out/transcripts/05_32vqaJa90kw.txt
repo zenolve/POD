@@ -1,0 +1,28 @@
+TITLE: My Two Apps Make $150K/Month Each
+FOUNDER: Nicole — Glamour (Glam Mob) + Sprout (formerly Prepear AI), plus 2 stealth apps
+DATE: 2026-05-17
+URL: https://www.youtube.com/watch?v=32vqaJa90kw
+
+NUMBERS: Built 4 apps in 2 years. Glamour: ~1M users in 6 months, peak ~$150K MRR, ~2M total downloads. Sprout: ~$250K MRR in 8 months. Two new stealth apps already ~$200K MRR combined, growing fast on the same system. Distribution scale: now ~400-500M monthly views across TikTok/Instagram/YouTube Shorts (up from ~100M); a 7-day period once hit 400M views; at peak managed ~200+ active creators simultaneously. Hard paywall on all apps (weekly/monthly subscriptions). Nicole does everything NON-coding: design + distribution.
+
+BACKGROUND: Built first two apps in college. Started a TikTok podcast that went viral (10K followers in 10 days), didn't want to be an influencer, moved to SF, did marketing at a tech startup, met co-founder Aaron (YC / H0). Decided to start an app together in a 10-minute call → became Glamour.
+
+IDEA SOURCING: Loosely inspired by UMAX (a looks-maxing app for men) → built a glow-up/makeup app for women (no such app existed yet). Sprout came from pivoting toward college/post-college students (higher purchasing power). They deliberately chose categories with proven customers and existing playbooks.
+
+CORE PHILOSOPHY: AI made building easy, so marketing/distribution is now harder and more important than ever. "It's not about the features you build... it's about distribution." Design IS distribution — design the app to be innately viral for social media, then test viral formats; when one wins, double down and scale. Turn virality into a SYSTEM/process — "you can always maximize the surface area of your luck."
+
+GROWTH PLAYBOOK (consumer apps, 2026):
+1. FIND your viral distribution strategy — try each for ~2-3 weeks and "milk the hell out of it": (a) Reddit marketing, (b) TikTok/IG faceless content (slideshows, CTA variations, videos), (c) face UGC (AI UGC or real creators), (d) if you have capital: paid ads + influencer marketing. Keep iterating within one category until something hits.
+2. Build a proper UGC SYSTEM. Rule: you must understand your app and content better than your creators do. Start by being your own UGC creator, or onboard 2-10 creators and train them until they go viral, then scale. The system:
+   - SOURCING: find creators that fit your content style (talking-heads need good talkers; reaction videos need expressive faces). Inbound = application forms in UGC group chats / Instagram / Reddit / sites like Sizzle. Outbound = hire VAs to reach micro-influencers.
+   - ONBOARDING: (1) Interview/vibe-check each creator for seriousness. (2) Put them through a tailored creator COURSE (Typeform + video modules + a quiz per module). >50% of creators who complete Sprout's course go viral within 2 weeks.
+   - MANAGEMENT: hire influencers or your top UGC creators to manage the rest; run via Discord; bi-weekly/monthly feedback calls. Find the system that fits your style.
+3. Once big enough, systematize/optimize further — referral systems for creators, dashboards for growth analytics.
+
+PRODUCTS: Glam Mob — onboarding → upload selfie → face scan → color analysis, glow-up guides, makeup looks, product recommendations (paywalled). Sprout — onboarding → tailored job postings → swipe right to AUTO-APPLY on the company site, swipe left to skip; also tailored resumes.
+
+TECH STACK: React Native (apps), RevenueCat (revenue tracking), Superwall (paywall), PostHog (analytics), Sideshift (recruit UGC creators), Attio (CRM), custom portals as needed.
+
+ADVICE: Enjoy the journey, not just results — there are always bigger numbers to chase; stay present and enjoy being a builder.
+
+PRODUCER REFLECTION: "There are levels to the game" — she's playing on expert mode while beginners struggle to post one thing. The level you need for serious consumer apps today: not "one video this week" but a full system. The true entrepreneur, when something works, keeps doing it until it stops — then replicates across multiple apps.

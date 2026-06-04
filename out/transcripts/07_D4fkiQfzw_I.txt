@@ -1,0 +1,21 @@
+TITLE: How I Work: $77K/Month Solopreneur
+FOUNDER: Mark (solo entrepreneur; "Trust the Manual"/TrustMRR-style verified-revenue marketplace + many small apps)
+DATE: 2026-04-26
+URL: https://www.youtube.com/watch?v=D4fkiQfzw_I
+
+NUMBERS: $77,000/month as a SOLO entrepreneur. Has built 35 startups; ~30 of them make basically nothing (hit rate ~5%). One product — a verified-revenue leaderboard that became a marketplace — alone makes $35K+/month. Shipped ~300 features on that marketplace in the last 3 months and 6 new apps in 2026. First day of a recent macOS app launch did ~$1,000.
+
+CORE PHILOSOPHY — KEEP SHIPPING / roll the dice often: He's met hundreds of people with a brilliant idea stuck in their head/computer that they never shipped — but can't recall anyone who said "I tried 10 times and it never worked." If you roll the dice once and stop, nothing happens; if you keep playing, eventually one roll works (happy users, money, quit your job, roll more often). "The only way to validate an idea is to ship it with a buy button." Don't get over-attached to one project that might take 3 years to pay off — it's easier to keep rolling and ship a new idea that might take off 100x faster, and every ship teaches you more and grows a small audience. "Don't you dare give up."
+
+DAILY ROUTINE (same day ~365 days/year):
+- Coffee + breakfast with wife → gym together (training for Hyrox) → home.
+- A protected DEEP-WORK block of 4-6 hours: phone OFF, no email, no customer support, no social media, completely offline. Reason: checking email surfaces bugs he'd fix instead of CREATING; social media triggers AI FOMO and kills an hour + his motivation. He only CREATES in the morning (opens code editor, codes).
+- ~4pm: go online — Twitter, email, the boring/less-creative work.
+- 5:30 dinner (watches Better Call Saul) → walk → switches EVERYTHING off (phone off, computer off, no work talk) → reads → bed at exactly 9pm. 30-60 min wind-down routine (dim lights). No alarm; wakes ~6-7am.
+- SLEEP is underrated — good sleep = emotionally stable + locked-in focus (can spend 4 hours on one thing).
+
+ON IDEAS: Don't think about the output — think "what is the thing I want to exist?" He built a macOS app that uses a webcam to check your posture because he sits like a shrimp at his computer ("this app must exist"). Trust the Manual started from a Peter Levels tweet about people faking revenue → "what if I make a leaderboard of verified revenues" → became a marketplace doing $35K+/mo. Feedback from users surfaces problems → more ideas. His to-do list grows every day (more ideas than he could build in 200 years); after finishing a cycle he picks whatever feature would have the most user impact / make him happiest.
+
+ON AI (controversial take): The single KPI that matters hasn't changed in the AI era — it's still the NUMBER OF THINGS YOU SHIP. People get obsessed with productivity (teams of background agents) but his setup is "the most boring ever": same code editor, a single-threaded AI chat on the right; talk to AI, it makes a feature, release, move to the next. You could do a lot with an early ChatGPT + a basic editor.
+
+ON FEAR OF SHIPPING: The biggest barrier to success is the little voice saying "it's too early / not good enough." It's a one-time fear, like the gym — you kill 80% of it by doing it once, the remaining 20% with more iterations, then it gets easier and easier.

@@ -1,0 +1,27 @@
+TITLE: I Built a $100K/Month Android App
+FOUNDER: Steve (+ co-founder) — Joinable, an AI calorie counter / nutrition assistant
+DATE: 2026-03-25
+URL: https://www.youtube.com/watch?v=0pp4X58q_0s
+
+NUMBERS: Bootstrapped from <$1,000 to $100,000+/month over ~a year (built ~18 months ago). Last 28 days: $125,000 revenue, ~$80K MRR, just under $1M ARR, ~30,000 active subscribers (~40,000 total), nearly 1M downloads — ~80% of users AND revenue from ANDROID, ~20% iOS. Premium subscription (monthly + annual). Has spent ~$500,000 on Google Ads and made almost exactly that back in attributed revenue (~100% break-even, deliberately — bootstrapped, so campaigns must be profitable).
+
+WHAT IT IS: A deliberately SIMPLE AI calorie/macro tracker — type or photo what you ate, it returns calories + macros per ingredient and a meal total; also logs exercise and weight over time. "Keep it simple, stupid" — less complexity than competitors is the core value prop and marketing message.
+
+BACKGROUND: He and his co-founder both did major weight-loss journeys (Steve dropped 45kg/100lb by tracking calories religiously). Used many competitor apps, found the space too complex, built a best-in-class but far simpler solution.
+
+CORE STRATEGY — bet on ANDROID + Google Ads (data-driven contrarian): Bootstrapped/capital-constrained, and iOS CPMs are ~4x Android's. The RevenueCat 2025 State of Subscription Apps report showed iOS users (4x more expensive to advertise to) only convert ~20% better than Android → Android is far more cost-effective. Validated on Product Hunt (front page → a couple hundred installs, 2 converted to subscribers), then ran Meta ads (could only afford Android) — Android converted as well as iOS, plus running Android ads gave spillover installs on iOS → doubled down on Android. Bread and butter = Google App campaigns (one place feeds all of Google's real estate: Play Store, Search, YouTube, Display, Discover). The #1 Play Store ad makes them ~#1 for keywords like "calorie counter/tracker."
+
+ANDROID / GOOGLE ADS PLAYBOOK (start over, 2026):
+1. Set up ATTRIBUTION & MEASUREMENT first — track in-app events (install, paywall hit, trial start, purchase + transaction value) and send them to Google Ads so it can optimize delivery.
+2. Launch INSTALL campaigns to feed the algorithm data (it learns install cost / CPM per country, gives a baseline). Google App campaigns need 10 pieces of copy (5 headlines + 5 descriptions) + up to 20 images + 20 videos — if short on time, just flood it with STOCK images/videos and let the algorithm do the heavy lifting.
+3. ASSET OPTIMIZATION phase (a function of time) — start low ($10-15/day) and ramp; replace stock with custom assets; take BIG SWINGS (wildly different media), not tiny tweaks (color/font). MOST IMPORTANT: update your PLAY STORE assets (screenshots, title, subtitle, description) since App campaigns pull from them.
+4. Once assets are good, launch a TCPA (target cost-per-acquisition) campaign. Budget rule: you need ~10x your CPI/target-event cost per day (Google's algorithm needs ~10 target events/day to optimize) — e.g., a $15 trial → $150/day budget.
+5. After a month or two you know your CAC → SCALE budgets per Google's best practices, and constantly OPTIMIZE the product (paywall, pricing, business model) so subscription conversion keeps climbing; raise budgets as conversion rises (flywheel).
+
+THE ANDROID OPPORTUNITY: AI lowered the barrier → app explosion, but ~5x more new iOS apps vs ~2x more Android → saturation is on iOS. Opportunities on Android: (a) apps proven on iOS that have no good Android equivalent; (b) niche overlaps of problems no app currently solves. Find a very small problem in your own daily app usage, solve it, find others with the same problem. Also localize to other countries (huge worldwide base).
+
+TECH STACK: Heavy Google ecosystem — Firebase + GA4 (backend/analytics), BigQuery, GCP, Google Play, Google Ads. RevenueCat (subscriptions), AI for backend. Ops tools: Claude Code + Claude Co-Work ($100/mo), OpenAI ($20/mo), GitHub Copilot ($39/mo), CodeRabbit ($30/mo), Fixer (AI email support, $30/mo), n8n (automation, $24/mo), AppFollow (ASO, $180/mo), Webflow (site, $18/mo).
+
+ADVICE: Start CREATING CONTENT / documenting your journey early — after a decade living off social media he feels behind peers at content creation; it's a missing skill in the business.
+
+PRODUCER REFLECTION: ~80% of your decisions should be based on YOUR OWN DATA (Google Ads, TikTok performance, conversion, usage) — analyze it (even feed it to AI for action items) and iterate constantly. Like WhatsApp building for every device, billions of Android devices = money to be made; you don't need the most optimized thing, just something that captures value.

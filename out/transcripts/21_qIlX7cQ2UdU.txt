@@ -1,0 +1,28 @@
+TITLE: I Make $15K/Month From One Website
+FOUNDER: Maddox Schmidtoffer — DuckMath (duckmath.org), an unblocked-games website
+DATE: 2026-03-01
+URL: https://www.youtube.com/watch?v=qIlX7cQ2UdU
+
+NUMBERS: A simple unblocked-games website making ~$15,000/month. Launched 4 years ago; in the last ~4 months went from ~5,000 to 150,000 daily active users and ~$1,000/mo → ~$15,000/mo. ~1.5M users/month, ~$0.01 per user via Google AdSense. SOLD the business for $120,000 (a few weeks before the interview), built from his dorm room. Main TikTok account: 4.6M views.
+
+WHAT IT IS: A website where (mostly school) users play "unblocked" browser games — click a game, play it. Monetized via Google AdSense (paid per ad view); the goal is to maximize time on site AND pages-per-visit (more pages = more ads = more money).
+
+ORIGIN / "FOLLOW THE MONEY": Saw a kid younger than him on TikTok promoting his own unblocked-games site → "I can do that." Built a crappy version in 1-2 weeks, marketed daily on TikTok (5 days/week) for ~2 years with little result. Then one day DuckMath passively made $240 in a day (pure luck/best day) → realized it had been quietly earning while he did nothing → decided to actually market it. (Lesson Pat draws: people abandon a silly-but-earning project to chase "serious" B2B — but going all-in on the thing that already makes money is what works.)
+
+BUILD (incremental): First version on Google Sites (drag-and-drop, embedded games) — looked terrible but worked. After a few thousand users + learning React in an internship, rebuilt the whole site in React; once vibe coding got big he barely touches code, freeing him to focus on MARKETING. Never a good designer — just copied what others did (simple design). Later got into A/B testing to maximize time-on-site and pages-per-visit (more ad views).
+
+GROWTH STRATEGY — pure VOLUME of short-form video: Made 3 TikTok accounts, posted 3x/day, 5 days/week, cross-posted to Instagram Reels, YouTube Shorts, and Snapchat (don't sleep on Snapchat — consistently 20K+ views). Iterate every single video: check yesterday's engagement, ask "how can I make them better?", then immediately make 3 new ones. Researched and initially COPIED competitors' best videos, then "worked two times harder" (more volume, same quality) — competitors posted once a day/week, he posted far more. Later he MENTORED someone else to make the videos in his format to save his time. Top video: 2.1M views on TikTok + 3.2M on Instagram (same video, auto-cross-posted) = ~5M total, ~30 min to make, "pretty crappy" phone footage with a strong visual HOOK then "go to this exact link" — likely ~$1,000 from that one video. Found a working format and kept pumping it out (e.g., part 30 of a series) testing different hooks.
+
+PLAYBOOK FOR 2026:
+1. Pick a NICHE YOU KNOW HOW TO MARKET IN (he knows games/college students → e.g., an AI college-study tool or game-server-hosting platform).
+2. Build a super-quick MVP in 2-3 days with AI.
+3. Research 10-20 of your competitors' best-performing videos; find what's common (hook, CTA), understand why they went viral, write down how to copy/use their format.
+4. Post DAILY on TikTok; make mistakes but keep getting better ("your first video won't be great, your 100th sure will be"); iterate; if it starts taking off, go ALL IN.
+
+THE SALE: A year earlier he'd seen a bigger company buy a smaller game site like his, so he contacted them, shared his stats, got lowballed at $100K, countered, agreed, and used Escrow.com as the middleman. Slightly regrets selling (nothing new working yet) but on reflection it was the right move. Now building MaddoxCloud (cloud gaming for phone games).
+
+TECH STACK: Cloudflare (hosting, domains ~$200/mo, static data — otherwise free), Supabase (backend/auth/leaderboards/coins/user data, $20), PostHog (analytics + A/B testing; got $50K in startup-program credits), Google AdSense (auto-serves ads, no code/contact needed), Repurpose.io (auto cross-post TikToks to YouTube/Instagram/Snapchat), a Discord (~7,000 members) for community/feature hype, and paid his girlfriend ~$200/week to post videos.
+
+ADVICE: Stay CONSISTENT — this only happened because he never stopped posting daily / forgot about the site over four years and kept incrementally improving. "If all else fails, stay consistent with your project — but know when to drop it."
+
+PRODUCER REFLECTION — "ego business vs. the business you're meant to build": The ego business is what others congratulate you for ("a real business" — B2B/SaaS); the real business is the one that's "not serious but makes money." If it's making money, go that direction. Decide whether you're building for CUSTOMERS or for what non-customers think of you. (Games/websites are some of the biggest businesses in the world.)

@@ -1,0 +1,26 @@
+TITLE: How This $250K/Month SaaS Got Its First 100 Users (Steal This Playbook)
+FOUNDER: Joseph — Super Demo, an AI demo-automation tool (interactive product demos)
+DATE: 2026-03-11
+URL: https://www.youtube.com/watch?v=l4WEqPX52Cg
+
+NUMBERS: ~$250K+ MRR, just over $3M ARR, 150,000+ users in ~2.5 years; G2's #5 fastest-growing product of 2025. Has scaled two separate products past $3M ARR. Product-led growth (most traffic from starter/premium tier).
+
+WHAT IT IS: Super Demo creates interactive demos — guided, clickable, realistic clones of your product embeddable anywhere (website, docs) so prospects experience your "aha moment" without signing up or talking to sales. Build a demo via Chrome extension (click through your workflow → it clones the front end into an editable, PowerPoint-like editor); add chapters, voiceovers (clone your voice), or a Loom-style face cam.
+
+BACKGROUND: Builder since 14-15 (Craigslist electronics, soy candles, clothing, a digital agency, a venture-funded B2B seafood marketplace). The recurring problem across all of them: it's hard to demonstrate a product's value (Looms go out of date, don't get watched). Kept the idea in his back pocket; built it after leaving his last company.
+
+VALIDATION: Knew it was HIS problem; then asked "do others face it and what's their workaround?" Talked to 100+ B2B SaaS founders — the unifying concern: people HATE making product demos and hate the sound of their own voice → "there's something here," so he built a v1 experiment to see if people would pay.
+
+PLAYBOOK — getting your FIRST 100 CUSTOMERS:
+1. LOW-HANGING FRUIT — capture obvious, existing demand from people already searching. Build valuable content across the FULL funnel:
+   - Bottom of funnel: detailed COMPARISON pages "Super Demo vs [every competitor you can find]" to piggyback their traffic; ship imperfect live v1.0 pages to get ranked/cited in LLMs early; see which competitor pages get traction/citations and optimize those.
+   - Mid funnel: dozens of FREE TOOLS in adjacent spaces (screenshots, SOPs). Their twist: make the product experience UNGATED (no signup/trial) so visitors find value instantly. Today free tools = ~20% of all traffic and convert ~15-20% of visitors to signups.
+   - Top of funnel: programmatic SEO pages with interactive Super Demos embedded for thousands of workflows/keywords ("how to export Figma to PDF", "how to merge cells in Excel") — solving the question interactively with the product front and center.
+2. DO THINGS THAT DON'T SCALE to remove buyer friction — he personally offered to create free Super Demos for founders on Reddit/Indie Hackers: they post their product URL, he builds the demo and comments it inline so they can sign up, duplicate, and use it. Bonus: others watching the thread see the demos and want their own. ("Hand-to-hand combat" — do it 100 times and a percentage convert.)
+3. BE EVERYWHERE your users are — there's no magic channel in 2026; aim for "distribution density": SEO + AI/LLMs via content, living in communities, direct outreach via product updates, building in public on LinkedIn/Indie Hackers, being a megaphone where founders pay attention. Traffic mix: ~30-40% SEO/LLMs, ~30% word of mouth / watermarks / referrals / viral loop (people share Super Demos), ~20% building in public on LinkedIn.
+
+WHAT EARLY SaaS FOUNDERS GET WRONG: Not launching yesterday and chasing perfection. Launch earlier → results compound faster and you learn whether to kill, scale (with data), or pivot. A founder's only advantage over an incumbent is URGENCY and SPEED. (Caveat: in the AI-first era products still need real craftsmanship.)
+
+TECH STACK: rotates through 50+ tools/month — Super Demo (own product for demos/onboarding/training), Claude Code + Cursor + Codex (switch by best model), Linear (tasks, connects to Slack + Claude), AWS (hosting), Postmark (transactional email), Intercom (workflows/onboarding/marketing/support), plus Ahrefs, Clay, Zapier for GTM/CS.
+
+ADVICE: Stop obsessing over competition and the idea — just start building. If you identify the right problem, the market is big enough for everyone; most companies die by suicide/internal combustion, not competition.

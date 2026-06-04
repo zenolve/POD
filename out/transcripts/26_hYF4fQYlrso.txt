@@ -1,0 +1,29 @@
+TITLE: I Make $16K/Month... Even In A "Tiny" Niche
+FOUNDER: Nick (Ukraine) — BlockToPin (Block to Pin), a Pinterest marketing/automation tool
+DATE: 2026-02-05
+URL: https://www.youtube.com/watch?v=hYF4fQYlrso
+
+NUMBERS: ~$16K+ MRR over ~2 years. 400+ active subscribers, churn ~10%. Plans: Starter ~$39/month, plus Agency and Enterprise tiers. Steady ~300-500 visitors that compound over time.
+
+WHAT IT IS: Pinterest is "Google for images" (500M+ active users actively looking for stuff). BlockToPin auto-creates Pinterest pins for your website (designing a pin manually takes 5-10 min, and you need 5-10 pins/day to grow) — it builds a month or two of good-looking, SEO-optimized pins in a few minutes, scheduled, with analytics.
+
+BACKGROUND / IDEA: Software engineer since 15. The 2022 war in Ukraine worsened his life and caused a long depression; he realized the corporate path wasn't for him. Found the indie hackers community + "ship/launch" culture and rode the AI wave. Created a few apps — all failed, $0 revenue. Then made an AI blog about his passion (cocktails) and tried every traffic method (Google, Instagram, Facebook, Pinterest) — Pinterest worked best. He hired someone to create pins, realized he could automate it, and built the first BlockToPin in ~2 months. (He chose this market because he felt the pain himself — a tedious, repeated process he could do better/faster/cheaper.)
+
+BUILD: Idea Dec 2023, built nights/weekends around a 9-5 using GitHub Copilot (Cursor/Claude Code didn't exist yet). Scrappy version in 7 days but had to rewrite most of it; ~2 months total. Launched with a LIFETIME deal (didn't expect sales) to ~1,000 Twitter followers — nothing happened; first paying customer took 10 days. Switched to subscriptions, improved the product, and over ~a month slowly got real customers.
+
+GROWTH (no hack — asymmetric grind): Three best channels = WORD OF MOUTH, AFFILIATES, and SEO/LLM recommendations (ChatGPT etc.). He cares deeply about every user — reviews their screen recordings when they're stuck or not growing on Pinterest, adjusts their strategy, builds requested features in hours/days. People feel that care and recommend him → it snowballs (strangers start using the app). SEO/LLMs: heavy upfront grind (wrote all the articles, reached out to influencers, posted on Reddit, built backlinks), then customers come on autopilot. "Asymmetric marketing" — struggle a lot upfront, then keep getting customers automatically.
+
+SEVEN-STEP MICRO-SAAS FRAMEWORK (start over, 2026):
+1. Find something people ALREADY DO and ALREADY PAY FOR — a completely unique experience is extremely hard to sell as an indie hacker.
+2. Research what exists — Google competitors; read their G2 / AppSumo / Capterra reviews; watch every YouTube video; list the pain points / what people dislike. Also check how competitors use AI (often they don't, or it's not core, because big companies can't easily rip out 90% of complexity). From this, define MVP requirements: faster, cheaper, better for ONE specific niche — your app should be the BEST for that specific person (and "a disaster for everyone else").
+3. Create the MVP with Claude Code — 1-2 weeks max.
+4. TALK to your ICP — find them anywhere (Reddit, X, cold outreach, YouTube/TikTok/Reels, random Facebook groups). If you did your homework, they'll happily try it (better/faster/cheaper than competition). If not, your ICP understanding or reach is wrong — adjust the app or the ICP. You CAN'T hide behind directory submissions or a Product Hunt launch — you need a real human who benefits.
+5. Treat that first customer like your EMPLOYER — review everything they do, ask for feedback, implement suggestions the same day, make sure they're 100% satisfied.
+6. Do that for a few dozen people → the app gets truly valuable for your ICP; customers become fans, recommend you, and you learn exactly where they hang out.
+7. Keep improving the app ~1% every day (churn, onboarding, emails). Math: add ~1 paying customer/day at ~10% monthly churn → ~200 paying customers by year-end; at $50 each → a $10K MRR business. Feasible for almost any niche if you truly solve someone's problem.
+
+TECH STACK: Vercel (host web app), Hetzner (run scrapers on his server), Oxylabs (proxies), Gemini (AI text), FAL (AI images), Sequency (emails / churn prevention).
+
+ADVICE: Try different things; once ready, pick ONE niche, solve ONE specific pain point, and stick with it for at least a few months — but don't just build features in silence; try different marketing angles (X, Reddit, email, YouTube) to reach your audience and build features that stand out. Eventually you find what works → double down.
+
+PRODUCER REFLECTION: You can take an OLD/proven idea (Pinterest automation has existed for years) and add an AI spin to win. Don't judge a "$16K/month, tiny niche" business by MRR alone — look at GROWTH and CHURN; a mature, proven market is more durable than a flash-in-the-pan AI tool.

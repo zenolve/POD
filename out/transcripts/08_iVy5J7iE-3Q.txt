@@ -1,0 +1,22 @@
+TITLE: I Spent 24 Hours With A SaaS Millionaire
+FOUNDER: Jeremy — Task Magic (browser-based automation SaaS), sold for millions
+DATE: 2026-04-19
+URL: https://www.youtube.com/watch?v=iVy5J7iE-3Q
+
+NUMBERS: Task Magic scaled to 60,000+ users, ~8,000 paying customers, some months north of $400K, ~$3M annual revenue, made the Inc. 5000 list with effectively one employee (him + his CTO). Sold on Acquire.com for mid-to-upper seven figures (millions). The companion product "Mail Lead" alone brought in almost seven figures.
+
+BACKGROUND: Started NON-technical hacking on V1 (a slow no-code app builder) in 2019; monetizing it let him hire his first employee. Rebuilt and relaunched in 2020 → seven figures. In 2021 stepped back to ask "what's the bigger opportunity?" — customers wanted automation, so they leaned into browser automation (Zapier users were limited by APIs; Task Magic automated messy human browser behavior with a click). Grew from a few hundred grand (2021) to ~$3M in 3 years.
+
+THE "TENTPOLE STRATEGY" (the core lesson): Instead of building ONE product and marketing it, build other small, cheap SIDE PRODUCTS that rank on their own (SEO) and funnel paid users into the core "tentpole" product. With today's no-code tools you sell FUNCTIONALITY, not information (the old way of marketing with free info tools). Steps:
+1. Build for the customer's NEXT problem. Task Magic's customers were business owners/agencies/freelancers who need sales.
+2. Build something very SIMPLE and SPECIFIC — they built "Mail Lead," a simple email-outbound platform. SEO rewards specificity: "cold outreach email for [sector/automation]" ranks faster/higher than a general "Task Magic automation." Sold to existing customers AND attracted new ones via Mail Lead's own SEO lift (≈ seven figures alone).
+3. Build a natural UPGRADE PATH — Mail Lead user wants to connect to other apps → clicks the "automation" button → it's Task Magic built right in; hit a limit → now paying for Task Magic.
+4. STACK AN ECOSYSTEM — Mail Lead users need leads to email, so they built "LeadQuest.ai" to find leads; emails flow into Mail Lead; automation flows into Task Magic. Each product feeds the others. These aren't separate side hustles — they serve the SAME ecosystem.
+
+MONETIZATION INSIGHT: Early on, people didn't want constant subscriptions, so to bankroll itself they used LIFETIME DEALS + usage-based pricing.
+
+IF STARTING OVER: Take LeadQuest as the new tentpole and stack products around it; stacking makes them help each other.
+
+THE REAL SALE STORY (behind the glamour): "I want to exit before I turn 38" but had no idea who'd buy. Talked to brokers, listed on Acquire.com → 100+ inquiries. Bought out investors, which depleted personal + business bank accounts; put $50K on his Amex and went ~$200K into personal debt to pay bills during the ~6-7 month process. Back against the wall (couldn't lose the house, ~$9K mortgage, young daughter). It sold; walked away with millions.
+
+ADVICE: Everyone online is "toxically positive" — all crushing it, none sharing the lows (and then a business quietly dies). Focus on the problems; have your bad day / bad video and SHARE it. Also: "If you do what I do, you'll hit seven figures — it might be product five, but cumulatively you'll get there." Pat's takeaway: AI will change SaaS; Jeremy treats PRODUCTS like content — you can spin up little products overnight that each help your customers and cross-sell.

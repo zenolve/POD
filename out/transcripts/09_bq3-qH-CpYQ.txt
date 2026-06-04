@@ -1,0 +1,24 @@
+TITLE: I Made $1.5M From An App You've Never Heard Of
+FOUNDER: Jordan — Parakeet Chat (AI learning/communication for incarcerated people)
+DATE: 2026-04-12
+URL: https://www.youtube.com/watch?v=bq3-qH-CpYQ
+
+NUMBERS: $1.5M total lifetime revenue; ~$300K in 2025 (~$300K/year SaaS). ~30,000 people have tried it = ~20% of the entire US federal prison population; ~100,000 family connections enabled; ~9M messages sent. Profitable within the first month. Pricing: $15-20/month (discount for yearly). He's solo-bootstrapped two $1M+ businesses (the other: self-driving cars/drones contract work).
+
+WHAT IT IS: Parakeet Chat is an AI learning + communication app for incarcerated people — there is NO downloadable app. Users (inmates) interact via the internal prison EMAIL system: they email a specific address, the bot processes it and replies (looks things up on ChatGPT, sports stats, etc.). Biggest use case: studying case law / legal rights; also communicating with family. Built entirely around the prison's technical limitations.
+
+UNUSUAL BUSINESS MODEL: Users ≠ customers. The users are inmates (inside); the customers are their families (outside) who pay the monthly SaaS fee.
+
+BACKGROUND: Wanted to be a scientist/engineer/astronaut; master's of science; worked on a moon rover and robotics in grad school; took a Fortune 100 corporate research job, found it boring, taught himself to code, moved to SF, got into entrepreneurship. Had ~a decade of software experience before this project.
+
+BUILD: ~1 month to build the prototype (used to validate) + another month for the payment system → profitable from month 2. Tech stack: TypeScript, React (frontend), Postgres (DB), Redis (in-memory + queuing), Auth0 (login — don't write your own), Prisma (DB calls), Zod (validate external data to a schema), lots of Docker. Now hasn't opened his code editor in 3-6 months — AI writes all the code ("AI is the new tech stack"). On language choice: it doesn't matter — pick what's interesting; the tech stack matters far less than SHEER SPEED.
+
+IDEA ORIGIN: A client he was building a mobile app for was suddenly sent to prison. Jordan kept in touch (paper letters for years); the client explained that prison services are a massive scam — low quality at high prices. Jordan figured he could do better.
+
+VALIDATION (key lesson): Prison is a CLOSED ecosystem — can't send a landing-page link or collect emails. So validating the idea and building the MVP were the SAME thing: he described the better/cheaper tool to his prison contacts, got tons of responsive feedback, people told other people, and he had 200 users within a month. His broader point: "The specifics of HOW you validate aren't as important as the FACT that you must validate." Most people fall in love with their idea and spend 12 months building a perfect app no one has seen. Validation isn't a framework — the real question is "do you actually want to validate?", because validating means your idea might die. Accept that you must validate and be willing to let your idea die. → Validate fast, often, early.
+
+GROWTH: Pure WORD OF MOUTH — a few inside contacts showed others, who showed others. "Apple doesn't have customers, they have cult members" — a good product creates zealots. Added an internal referral system (a customer who recruits a paying customer gets ~a month of free credits). Think about growth like a SCIENTIST: experiment, be willing to fail, run a (probably terrible) strategy, get data back, iterate.
+
+ADVICE: "Everything you think about business is wrong" — most people's ideas about most things aren't grounded in anything if they haven't done it. There's no such thing as overnight success — it took him 10 years of making mistakes to reach this point. To be a successful entrepreneur, start RIGHT NOW: come up with some "stupid/idiotic" idea everyone says won't work and just do it (in a controlled way that won't ruin you). You'll learn more from one controlled mess-up than from reading 20 books.
+
+PRODUCER REFLECTION: Building niche apps for small communities may be the future of AI/business. Young successful founders aren't lucky — they just started earlier and are 6-10 years into making mistakes.

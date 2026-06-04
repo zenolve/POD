@@ -1,0 +1,28 @@
+TITLE: How I Built It: $17K/Month Open Source SaaS
+FOUNDER: Nevo — Postiz (Posties), the biggest open-source social media scheduling tool
+DATE: 2026-01-28
+URL: https://www.youtube.com/watch?v=RPM4ImzcIFc
+
+NUMBERS: $17K MRR, 472 subscribers, churn ~19% (trying to lower), ~3,830 trials since Aug 2025, 21% trial-to-paid. Downloaded ~5M times (open-source). ~80% margins. SaaS tiers: Standard / Team / Pro / Ultimate (different channels + features). The open-source self-hosted version = the SAME as the cloud offering (no crippled "open core").
+
+WHAT IT IS: Schedule posts to 25 social platforms (the most of any tool), with AI. Open-source/self-hosted is free (devs do the hard work of approving each provider themselves); the cloud version is the paid, hosted convenience.
+
+BACKGROUND: A developer for many years, not originally an open-source person. Met people at a co-working space building an open-source notification infra tool; joined that company for 2 years and saw it go 0 → 32,000 GitHub stars (growth he'd never seen). Did niche open-source consulting for ~a year (was one of few people talking about it) but got stressed from endless meetings, so returned to building products — everything he builds now is open-source.
+
+WHY OPEN SOURCE IS A GREAT WEDGE IN 2026: Everyone can build almost anything now and the market is flooded with competitors (thousands of social schedulers exist), so you need DIFFERENTIATION. Open source introduces your project to millions of developers — a "blue ocean" angle to penetrate a flooded market via transparency + fast feedback. Developers won't pay you (treat the OSS version as a free tier — they self-host, you pay no usage), but they: build your brand, spread word of mouth, generate tons of UGC/blog posts/SEO (people writing "how to use Posties", reviews, directory listings with high domain authority), contribute bug reports/features (faster iteration), and increase credibility (non-devs see an active GitHub with recent commits). The BIGGEST money in open source is often SELF-HOSTED ENTERPRISE SUPPORT (enterprises who won't put data outside will self-host but need paid support). Don't fear someone copying you — today BRAND wins; copycats are always one step behind the original creator and usually abandon it.
+
+THE OPEN-SOURCE LAUNCH PLAYBOOK (run this every week):
+STEP 1 — PREPARATION (treat your GitHub README as your landing page): write everything clearly; if you have an alternative, position as "open-source alternative to X" for fast context; add a license (MIT, Apache 2, or AGPL3 — choose deliberately); create GitHub ISSUES for features you want others to build (much easier for contributors to pick up); open a Discord server; write DOCS on how to deploy (critical — if they can't deploy, they churn and you don't trend); provide a DOCKER image to make deployment trivial.
+STEP 2 — TRAFFIC / "the launch" (get into GitHub's trending feed by getting max traffic in the shortest time):
+  - Pre-register accounts ~2 weeks ahead: Hacker News; Reddit (build some karma first or your posts get filtered); Lemmy (a self-hosted Reddit — great for open source, posts easily get 100+ upvotes); Dev.to, Medium, Hashnode.
+  - Write an article on Dev.to/Medium/Hashnode about how you built it / that you launched (later, listicles like "top 10 open-source projects to check in 2026" for stars/trending). These rank AND feed the Google Discover feed (his main traffic source) — invest in title + cover image like a YouTube thumbnail.
+  - Hacker News: submit "Show HN: [project]" linking to your GitHub REPO (not your main site) — HN loves OSS, high chance of the main feed (~10,000 views).
+  - Reddit: post on r/selfhosted (where self-promotion of open source is welcomed) — re-post each new version with features; ask for a star; be humble, build-in-public, use "I" not "we"; post monthly. Cross-post to r/webdev, r/programming (and r/LocalLLaMA, r/AI_Agents, r/LangChain for AI).
+  - Push everything else you have (X, LinkedIn, newsletter) to your GitHub.
+  - Do ALL of these in the SAME WEEK to hit the trending feed → star count rockets, more Discord joins, more issues/PRs/forks.
+
+TECH STACK: Railway (backend), Vercel (Next.js marketing site only, own backends), SEMrush + Ahrefs ($20 dashboard only) (SEO), Resend (emails), Cloudflare R2 (hosting), Dub.co (short links + affiliates), Plausible (analytics), OpenAI + FAL (AI text/images), a "translated"/transcoding service ($600 — resize videos per platform so posts never fail — biggest expense), Outrank (1 SEO article/day), Cursor ($20), WebStorm (IDE), Beehiiv (newsletter), Discord (free support), GitHub Copilot + Sentry + GitHub Actions (free for open source).
+
+ADVICE (slightly controversial): LEARN a lot before you build (but avoid analysis paralysis). After many startup failures he paused and read — "Traction" (marketing), Alex Hormozi ($100M Offers), Russell Brunson (lead gen) — then made smarter decisions. Many people jump into B2C (harder if you can't do distribution), grind a year, fail, then realize they should've gone B2B. Spend ~half your time learning, half creating.
+
+PRODUCER REFLECTION: In a world where AI writes any code (often referencing open-source code), the value of code is low — value is in BRAND, and open source is a great way to build brand and get FREE distribution as a bootstrapper. You don't need to reinvent the wheel; distribution (here, the open-source angle) changes the game.

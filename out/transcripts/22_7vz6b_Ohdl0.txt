@@ -1,0 +1,26 @@
+TITLE: I Built a Niche App to $9K MRR (open-source dev tool)
+FOUNDER: Jonathan Fishner — ChartDB / Chartbrew, open-source database visualization for developers
+DATE: 2026-02-25
+URL: https://www.youtube.com/watch?v=7vz6b_Ohdl0
+
+NUMBERS: ~$9,000-9,400 MRR, launched open-source 16 months ago, 21,000+ GitHub stars, ~250,000 developers used the product in a year. Open-source self-hosted is free; the paid CLOUD (hosted) version is how they monetize — devs find it via GitHub, use it free, then upgrade for streamlined workflow/team collaboration.
+
+WHAT IT IS: Point it at your database and it turns the schema into a visual, interactive ERD/chart (run one "smart query" in your DB client, paste the JSON, click import → see all tables and relationships). No signup, no install of their software, no credentials needed.
+
+IDEA / PIVOT: Originally tried to build an AI-infused database client — failed, because it required credentials/access + installing software, and engineers wouldn't trust an unknown tool. Pivoted to ChartDB ("take your database and make it a chart, simple as that"). Two things made it work: (1) it's visual — instant "wow"/value; (2) drastically reduced friction (no access, no install).
+
+GROWTH: Launched as a "Show HN" on Hacker News after ~3 weeks of development → hit the front page → thousands of engineers landed the same day. Why the HN launch worked: developers love open-source (test it with no signup), and if you offer something genuinely UNIQUE (a sharp "wedge"), they reward it with upvotes that carry you to the homepage (where tons of devs check launches daily).
+
+PLAYBOOK TO START OVER (developer tool, 2026):
+1. BE the user / build for yourself — you see the value immediately and understand it (for ChartDB: "I want an interactive, good-looking ERD").
+2. Design for the persona's CONSTRAINTS, not the ideal — developers prefer self-hosted tools they can test locally with no signup wall; reduce friction (ChartDB has no signup, no sales calls, no credentials).
+3. Start with a WEDGE, not the full vision — ship something people appreciate and get value from instantly, then evolve via feedback in small iterations.
+4. Let USAGE tell you what to monetize — they didn't monetize at first; when users asked to work with their team, they built real-time collaboration (complex to support) and monetized that. Monetization should be a response to behavior, not a guess — watch how usage patterns merge.
+5. Market where your ICP already LIVES — don't invent channels; show up where developers are: GitHub, Hacker News, Reddit (self-hosted + dev subreddits), internal team sharing.
+TAKEAWAY: Pick the persona, aggressively remove all friction, and be obsessed with ONE core value until adoption feels effortless.
+
+TECH STACK: React + Vite + Node.js + Tailwind + React Flow (canvas/entities); built with Claude Code (Max $200/mo); Tribe/compliance tool (SOC 2 for big clients, $500/mo); ChatGPT + API for AI assistant (~$70); Resend (transactional email); AWS (~$600/mo); ChartMogul (free); Better Analytics ($25/mo); Framer ($30/mo marketing site); Stripe; Crisp (user chat); Ahrefs (SEO).
+
+ADVICE: Pick one core value and defend it aggressively. Everything worked when they focused entirely on making database visualization obvious and ignored everything else.
+
+PRODUCER REFLECTION: Developer tools are huge because they're free to download/try (e.g., a "Claude bot" getting hundreds of thousands of GitHub stars in a week). Build in spaces you know — Jonathan could predict what developers would complain about. The earlier failed AI-DB-wrapper wasn't wasted — building it was necessary to reach the pivot.

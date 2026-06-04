@@ -1,0 +1,32 @@
+TITLE: My App Made $120K in 24 Hours
+FOUNDER: Umberto — Flogga, a mobile app for yoga teachers/practitioners
+DATE: 2026-03-29
+URL: https://www.youtube.com/watch?v=DkmStHS8NP0
+
+NUMBERS: Pre-launched May 2025 with a LIFETIME DEAL → ~$117,000 by end of launch day (~$120K in 24 hours), from 500-600 early lifetime customers. Now a subscription business (monthly/quarterly on website + yearly), ~4,000 active users (paid + free), ~$9-10K/month. Earlier physical-product brand (Play Pause Be, yoga card decks) did $200K+ in its first month on Kickstarter.
+
+BACKGROUND: Not a developer (studied economics). Raised seed funding for a startup in 2012 that failed; left tech (ski instructor, fashion photographer); returned ~2016 as an advertising/growth strategist (learned to launch and position products). Built Flogga by transforming his physical yoga-card business into an app "without losing the mindful core." Found a developer a few months after sketching the concept.
+
+THE LIFETIME-DEAL (LTD) LAUNCH STRATEGY: A lifetime deal = users pay once for lifetime access. Philosophy: MONETIZE AS EARLY AS YOU CAN — build the product and a revenue engine simultaneously. He identified the MINIMUM set of features needed to convince people to buy the LTD, then planned the whole launch machine (emails, landing page, videos, ad creatives) + did lead generation to reach new people. Recorded a YouTube walkthrough of every current feature, said "it works like this now, we'll build these other features, get it now lifetime with NO refunds, or wait a couple months for subscriptions." Early buyers are hugely valuable: they're invested in making the app work, give great suggestions, cheer you on; many later features came from their feedback.
+
+THE EMAIL SEQUENCE (pre-launch lasted ~1 month + 1 week; he published it all on his blog):
+- Email 1: storytelling, reveal nothing, create interest, lay the basis for what's coming.
+- Email 2: more storytelling, reveal a bit more; create curiosity/confusion (put the physical product in back, something new in front).
+- Later email: unveil what's "behind the red curtain" — show the app, briefly explain why, link to a video presentation.
+- Build toward launch: explain the LTD is LIMITED in number AND time (reduces procrastination — works very effectively).
+- NEVER show the price before launch day — otherwise people decide based on price; during warm-up they should evaluate only on features + long-term vision. Once they see price they can't unsee it.
+
+PLAYBOOK TO START OVER (great launch):
+1. VALIDATE before you build — talk to 5-10 people in your target market about the problem, but never tell them why you're asking (unbiased reaction). Read "The Mom Test."
+2. Define your Minimum LAUNCHABLE Product — the minimum stage where it conveys enough value for early adopters to PAY; estimate build time and plan around that timeline.
+3. Build your CONTENT MACHINE before promoting — a buffer of emails, graphics, videos, landing pages ready to go. Put yourself in the user's shoes (explain simply what's obvious to you; build trust + educate).
+4. PRICING — don't throw out a number; structure it. Don't price too low out of fear (leaves serious money on the table). He used THREE tiers: ~$109 (limited features), ~$199 (more features), ~$349 (full future vision). The first two tiers create a reference price that helps sell the most expensive one and capture skeptical buyers.
+5. LAUNCH MECHANICS — be completely transparent (show exactly what works, current limitations, the plan). Set a clear "no refunds" line (or the LTD is jeopardized); doubters can wait for the subscription. LIMIT time and spots — 5-7 days max — to force decisions over procrastination.
+
+WHY LTD ISN'T "leaving money on the table": When early you have no data (no LTV, no churn) — an LTD converts assumptions into real money in the bank. Incentives: monthly subscribers have optionality (churn on a bug, leave a bad review, no feedback); lifetime buyers have COMMITMENT (report bugs, send detailed feedback — they even made a Telegram group of early adopters). People who hate subscriptions will pay 3-5x more for lifetime than a yearly plan. It's "raising capital from your customers without giving away equity, control, or board seats" — plus amazing feedback. (Pat: think of an LTD as a pricing strategy — price it at the ~24-month subscription value and collect the cash up front.)
+
+TECH STACK: Flutter (dev), Firebase (~$25/mo), RevenueCat (subscriptions), Vimeo (video hosting), OneSignal (push notifications).
+
+ADVICE: Stop waiting for perfect — "perfection is fear disguised as preparation." The breakthrough happens the moment you put something (even unfinished) in front of real people. Move sooner, ship earlier, trust the process — you learn faster in public than in private.
+
+PRODUCER REFLECTION: Big/successful companies send tons of emails and run constant deals (Black Friday etc.) — this is marketing/sales, not spam; people can unsubscribe. Many very successful MRR founders STARTED with a lifetime deal.
